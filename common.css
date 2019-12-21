@@ -135,7 +135,7 @@ img {
   width: 100%;
 }
 /* .container-sm:before,
-.container-sm:after,{
+.container-sm:after{
   content: "";
   display: table;
   clear: both;
@@ -148,6 +148,23 @@ img {
   margin-right: auto;
   margin-left: auto;
 } */
+
+
+.container-lg:before,
+.container-lg:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.container-lg {
+  max-width: 1310px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+} 
+
 .hide-md {
     display: block!important
 }
