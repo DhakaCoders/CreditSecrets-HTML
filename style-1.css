@@ -39,7 +39,7 @@ header.fl-hdr strong{
 .special-offer-dsc{
     position: relative;
     z-index: 3;
-    padding:110px 350px 110px 0;
+    padding:110px 50px 120px 0;
 }
 .special-offer-dsc h1 {
     margin-bottom:16px;
@@ -49,7 +49,8 @@ header.fl-hdr strong{
 	font-family: "OpenSans-Bold";
     margin-bottom: 10px;
     color: #fff000;
-    line-height: 50px;
+    line-height: 53px;
+    margin-bottom: 30px;
 }
 .special-offer-dsc h3 span{
 	font-family: "MyriadPro-Regular";;
@@ -59,18 +60,34 @@ header.fl-hdr strong{
 	font-family: "OpenSans-SemiBold";
 	font-size: 28px;
     color: #fff000;
+    margin-bottom: 10px;
+}
+.fl-john-ulzheimer-sec{
+	padding: 45px 0 450px;
+}
+.fl-john-ulzheimer-sec h5 span.fl-txt-line-bg {
+	display: inline-block;
+	vertical-align: baseline;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: 100% 100% !important;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 15px;
+    padding-right:48px;
+    line-height: 55px;
+}
+.fl-john-ulzheimer-sec h5 img{
+    padding-right: 15px;
+}
+.fl-john-ulzheimer-sec p{
+	font-family: "OpenSans-LightItalic";
 }
 
-
-
-
-
-
-
-
-
-
-
+.fl-john-ulzheimer-img{
+	position: relative;
+	padding-top: 12px;
+}
 
 
 
