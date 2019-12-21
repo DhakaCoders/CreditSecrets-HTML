@@ -17,10 +17,6 @@ header.fl-hdr strong{
 	font-family: "PTSerif-Bold";
 	font-size: 24px;
 }
-
-
-
- 
 .fl-special-offer-sec{
     position: relative;
     z-index: 1
@@ -63,8 +59,9 @@ header.fl-hdr strong{
     margin-bottom: 10px;
 }
 .fl-john-ulzheimer-sec{
-	padding: 45px 0 450px;
+	padding: 45px 0 45px;
 }
+.fl-jay-hannon-btm-des h5 span.fl-txt-line-bg,
 .fl-john-ulzheimer-sec h5 span.fl-txt-line-bg {
 	display: inline-block;
 	vertical-align: baseline;
@@ -83,11 +80,385 @@ header.fl-hdr strong{
 .fl-john-ulzheimer-sec p{
 	font-family: "OpenSans-LightItalic";
 }
-
+.fl-john-ulzheimer-sec p span{
+	font-family: "OpenSans-BoldItalic";
+}
 .fl-john-ulzheimer-img{
 	position: relative;
 	padding-top: 12px;
 }
+.fl-jay-hannon-innr{
+	background: #fff;
+	padding: 0 30px 40px;
+	border-radius: 10px;
+	overflow: hidden;
+	-webkit-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+}
+.fl-jay-hannon-hdr{
+	font-family: "PTSerif-BoldItalic";
+	padding: 30px 35px 40px;
+	margin-bottom: 38px;
+	position: relative;
+	margin-left: -30px;
+	margin-right: -30px;
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background-position: center bottom 1px !important;
+}
+.fl-jay-hannon-hdr span.btm-wave-img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -1px;
+    z-index: 1;
+    height: 19px;
+    background-position: center bottom !important;
+    background-repeat: repeat-x !important;
+}
+.fl-jay-hannon-hdr h2{
+	font-family: "PTSerif-BoldItalic";
+	color: #fff;
+	margin-bottom: 0;
+}
+.fl-jay-hannon-top-des p{
+	font-family: "OpenSans-LightItalic";
+}
+
+.fl-jay-hannon-top-des p span{
+	font-family: "OpenSans-BoldItalic";
+}
+.fl-jay-hannon-btm-des{
+	padding-top: 10px;
+}
+.fl-prisoner-sec{
+	padding: 40px 0;
+}
+.fl-prisoner-head {
+    margin-bottom: 35px;
+}
+.fl-prisoner-head h2{
+	margin-bottom: 5px;
+	color:#135d9d;
+}
+.fl-prisoner-two-part-wrp .fl-prisoner-img{
+	width: 48.70%;
+	float: left
+}
+.fl-prisoner-two-part-wrp .fl-prisoner-des{
+	width:  51.30%;
+	float: left;
+	padding-left: 30px;
+}
+.fl-prisoner-two-part-wrp li:nth-child(2n+1) .fl-prisoner-img{
+	float: right
+}
+.fl-prisoner-two-part-wrp li:nth-child(2n+1) .fl-prisoner-des{
+	padding-right: 30px;
+	padding-left: 0;
+}
+
+.fl-prisoner-two-part-wrp .fl-prisoner-des p:last-child{
+	margin-bottom: 0;
+}
+.fl-bad-credit-sec{
+	padding-top: 50px;
+	padding-bottom: 35px;
+	color: #fff;
+	position: relative;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-position: center center !important;
+}
+.fl-bad-credit-head h2{
+	margin-bottom: 30px;
+}
+.bad-credit-top-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -16px;
+    z-index: 1;
+    height: 27px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+}
+.bad-credit-btm-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -15px;
+    z-index: 1;
+    height: 25px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center bottom !important;
+}
+.fl-rent-borrow-sec{
+	padding: 50px 0 45px;
+}
+.fl-rent-borrow-head{
+    margin-bottom: 30px;
+}
+.fl-rent-borrow-head h2{
+	margin-bottom: 5px;
+}
+.fl-rent-borrow-head h2 span{
+	color:#135d9d;
+}
+.fl-rent-borrow-block:not(:last-child){
+	padding-bottom: 30px;
+}
+
+/* good-news-btm-web-img.png */
+
+
+.fl-good-news-innr {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+	-webkit-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+}
+.fl-good-news-head{
+	color: #fff;
+	padding: 30px 10px 25px;
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
+    background-position: center bottom!important;
+	position: relative
+}
+.good-news-btm-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -8px;
+    z-index: 1;
+    height: 25px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center bottom !important;
+}
+.fl-good-news-img{
+	width: 48.7%;
+	min-height: 400px;
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
+    background-position: center bottom!important;
+}
+
+.fl-good-news-des{
+	width: 51.3%;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 35px;
+	padding-bottom: 20px;
+}
+
+
+.fl-good-news-img img{
+	display: none;
+}
+
+
+.fl-good-news-des p:last-child{
+	margin-bottom: 0;
+}
+
+.fl-bank-darling-sec{
+	padding: 50px 0 45px;
+}
+.fl-bank-darling-head{
+    margin-bottom: 30px;
+}
+.fl-bank-darling-head h2{
+	margin-bottom: 5px;
+}
+.fl-bank-darling-head h2 span{
+	color: #135d9d;
+}
+
+.fl-bank-darling-two-part{}
+.fl-bank-darling-lft-img{
+	width: 48.7%;
+}
+.fl-bank-darling-rgt-des{
+	width: 51.3%;
+	padding-left: 30px;
+}
+.fl-bank-darling-rgt-des p:last-child{
+	margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -131,10 +131,10 @@ img {
     z-index: 10
 }
 .container {
-  max-width: 1205px;
+  max-width: 1180px;
   width: 100%;
 }
-.container-sm:before,
+/* .container-sm:before,
 .container-sm:after,{
   content: "";
   display: table;
@@ -147,7 +147,7 @@ img {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-}
+} */
 .hide-md {
     display: block!important
 }
