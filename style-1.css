@@ -408,12 +408,6 @@ header.fl-hdr strong{
 
 
 
-
-
-
-
-
-
 .fl-advantage-sec{
 	padding: 40px 0;
 }
@@ -464,17 +458,83 @@ header.fl-hdr strong{
 
 
 
+.fl-future-danger-sec,
+.fl-major-breakdown-sec{
+	padding-top: 50px;
+	padding-bottom: 35px;
+	color: #fff;
+	position: relative;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-position: center center !important;
+}
+.fl-future-danger-head h2,
+.fl-major-breakdown-head h2{
+	margin-bottom: 30px;
+}
+
+.future-danger-top-wave,
+.major-breakdown-top-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -15px;
+    z-index: 1;
+    height: 25px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+}
+.future-danger-btm-wave,
+.major-breakdown-btm-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -15px;
+    z-index: 1;
+    height: 25px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center bottom !important;
+}
 
 
 
 
 
 
+.fl-secret-powerful-sec{
+	padding: 50px 0 45px;
+}
+.fl-secret-powerful-head{
+    margin-bottom: 30px;
+}
+.fl-secret-powerful-head h2{
+	margin-bottom: 5px;
+}
+.fl-secret-powerful-head h2 span{
+	color: #135d9d;
+}
+.fl-secret-powerful-two-part{}
 
+.fl-secret-powerful-lft-img{
+	width: 48.7%;
+}
+.fl-secret-powerful-rgt-des{
+	width: 51.3%;
+	padding-left: 30px;
+}
+.fl-secret-powerful-des p:last-child,
+.fl-bank-darling-rgt-des p:last-child{
+	margin-bottom: 0;
+}
 
-
-
-
+.fl-secret-powerful-dft-img{
+	margin-bottom: 30px;
+}
+.fl-secret-powerful-des{
+	padding-bottom: 22px;
+}
 
 
 
