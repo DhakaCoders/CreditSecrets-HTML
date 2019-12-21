@@ -186,14 +186,8 @@ strong{ font-weight: normal }
     padding-left: 5px!important;
     padding-right: 5px!important
 }
-.fl-page-bdy-controller{
-    max-width: 1170px;
-    margin: 0 auto;
-    background: #fff;
-    -webkit-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
-    -moz-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
-    box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1)
-}
+
+
 h1 {
     font-size: 75px
 }

@@ -211,10 +211,6 @@ header.fl-hdr strong{
 .fl-rent-borrow-block:not(:last-child){
 	padding-bottom: 30px;
 }
-
-/* good-news-btm-web-img.png */
-
-
 .fl-good-news-innr {
     background: #fff;
     border-radius: 8px;
@@ -249,7 +245,6 @@ header.fl-hdr strong{
     background-size: 100% 100%!important;
     background-position: center bottom!important;
 }
-
 .fl-good-news-des{
 	width: 51.3%;
 	padding-left: 30px;
@@ -257,17 +252,12 @@ header.fl-hdr strong{
 	padding-top: 35px;
 	padding-bottom: 20px;
 }
-
-
 .fl-good-news-img img{
 	display: none;
 }
-
-
 .fl-good-news-des p:last-child{
 	margin-bottom: 0;
 }
-
 .fl-bank-darling-sec{
 	padding: 50px 0 45px;
 }
@@ -280,30 +270,65 @@ header.fl-hdr strong{
 .fl-bank-darling-head h2 span{
 	color: #135d9d;
 }
-
 .fl-bank-darling-two-part{}
+.fl-admin-intro-lft-img,
 .fl-bank-darling-lft-img{
 	width: 48.7%;
 }
+.fl-admin-intro-rgt-des,
 .fl-bank-darling-rgt-des{
 	width: 51.3%;
 	padding-left: 30px;
 }
+.fl-admin-intro-top-des p:last-child,
+.fl-admin-intro-rgt-des p:last-child,
 .fl-bank-darling-rgt-des p:last-child{
 	margin-bottom: 0;
 }
+.fl-admin-intro-sec{
+	position: relative;
+	color: #fff;
+	padding: 50px 0 55px;
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
+    background-position: center bottom!important;
+}
+.fl-admin-intro-rgt-des{
+	width: 51.3%;
+	padding-left: 0;
+	padding-right: 30px;
+}
+.fl-admin-intro-q-mark {
+	padding: 16px 0 42px;
+}
+.fl-admin-intro-q-mark h2{
+	margin-bottom: 5px;
+	color: #ffea34;
+}
 
 
-
-
-
-
-
-
-
-
-
-
+.admin-intro-top-wave{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -7px;
+    z-index: 1;
+    height: 27px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+}
+.admin-intro-btm-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -4px;
+    z-index: 1;
+    height: 25px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center bottom !important;
+}
 
 
 
