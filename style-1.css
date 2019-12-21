@@ -1,17 +1,65 @@
 
 
 
+header.fl-hdr{
+	background: #fff000;
+	padding: 5px 0 12px;
+}
+
+
+header.fl-hdr span{
+	display: inline-block;
+	vertical-align: baseline;
+	font-family: "PTSerif-Italic";
+	font-size: 20px;
+}
+header.fl-hdr strong{
+	font-family: "PTSerif-Bold";
+	font-size: 24px;
+}
 
 
 
-
-
-
-
-
-
-
-
+ 
+.fl-special-offer-sec{
+    position: relative;
+    z-index: 1
+}
+.fl-special-offer-bg{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
+    background-position: center bottom!important;
+    z-index: 2
+}
+.special-offer-dsc{
+    position: relative;
+    z-index: 3;
+    padding:110px 350px 110px 0;
+}
+.special-offer-dsc h1 {
+    margin-bottom:16px;
+    color:#fff;
+}
+.special-offer-dsc h3 {
+	font-family: "OpenSans-Bold";
+    margin-bottom: 10px;
+    color: #fff000;
+    line-height: 50px;
+}
+.special-offer-dsc h3 span{
+	font-family: "MyriadPro-Regular";;
+    color: #fff;
+}
+.special-offer-dsc strong{
+	font-family: "OpenSans-SemiBold";
+	font-size: 28px;
+    color: #fff000;
+}
 
 
 
