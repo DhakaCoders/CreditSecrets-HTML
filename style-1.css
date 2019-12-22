@@ -1,12 +1,7 @@
-
-
-
 header.fl-hdr{
 	background: #fff000;
 	padding: 5px 0 12px;
-}
-
-
+} 
 header.fl-hdr span{
 	display: inline-block;
 	vertical-align: baseline;
@@ -125,7 +120,6 @@ header.fl-hdr strong{
 .fl-jay-hannon-top-des p{
 	font-family: "OpenSans-LightItalic";
 }
-
 .fl-jay-hannon-top-des p span{
 	font-family: "OpenSans-BoldItalic";
 }
@@ -231,7 +225,6 @@ header.fl-hdr strong{
     background-position: center bottom!important;
 	position: relative
 }
-
 .legal-credit-btm-wave,
 .upside-down-btm-wave,
 .good-news-btm-wave {
@@ -504,16 +497,6 @@ header.fl-hdr strong{
 .fl-secret-powerful-des{
 	padding-bottom: 22px;
 }
-
-
-
-
-
-
-
-
-
-
 .fl-legal-credit-sec{
 	padding: 50px 0;
 }
