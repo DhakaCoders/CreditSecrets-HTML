@@ -2,7 +2,7 @@
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
 	background-position: center !important;
-	padding: 60px 0;
+	padding: 30px 0;
 	position: relative;
 }
 .fl-loophole-head h2{
@@ -16,7 +16,7 @@
     position: absolute;
     left: 0;
     right: 0;
-    top: -27px;
+    top: -26px;
     z-index: 1;
     height: 27px;
     background-size: cover !important;
@@ -54,7 +54,7 @@ span.fl-txt-line-bg {
 
 
 .fl-anyone-use-sec-wrp{
-	padding-top: 50px;
+	padding-top: 70px;
 }
 .fl-anyone-use-head{
 	text-align: center;
@@ -160,19 +160,19 @@ span.fl-exposed-rgt-img {
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center !important;
-    overflow: hidden;
     position: relative;
     border: 10px;
+    overflow: hidden;
 }
-.fl-every-single-head{
-	text-align: center;
-	padding: 25px 30px 10px;
-	background: #135d9d;
-	border-radius: 10px 10px 0 0;
-	position: relative;
-	margin-bottom: 60px;
-	margin-left: 8px;
-	margin-right: 8px;
+.fl-every-single-head {
+    text-align: center;
+    padding: 25px 30px 10px;
+    background: #135d9d;
+    border-radius: 10px 10px 0 0;
+    position: relative;
+    margin-bottom: 60px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 .fl-every-single-head h2{
 	color: #fff;
@@ -189,10 +189,25 @@ span.fl-exposed-rgt-img {
     background-repeat: no-repeat !important;
     background-position: center bottom !important;
 }
-.fl-every-single-overflow{
+.fl-every-single-tp-wrp{
+	position: relative;
 }
 .fl-every-single-tp-img {
-    margin-left: -90px;
+    position: absolute;
+    left: -110px;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    max-width: 619px;
+    width: 100%;
+    height: 463px;
+}
+.fl-every-single-tp-dsc {
+    max-width: 540px;
+    width: 100%;
+    float: right;
+    padding-right: 10px;
 }
 .fl-every-single-car{
 	max-width: 900px;
@@ -222,7 +237,7 @@ span.fl-exposed-rgt-img {
 span.fl-every-single-power-icon{
 	position: absolute;
 	right: 0;
-	top: -235px;
+	top: -220px;
 	max-width: 361px;
 	width: 100%;
 	height: 361px;
@@ -262,9 +277,11 @@ span.fl-every-single-power-icon{
     padding-left: 10px;
     position: relative;
     z-index: 2;
+    padding-bottom: 10px;
 }
-.fl-needs-trick-sec-wrp{
-	padding-top: 45px;
+.fl-needs-trick-sec-wrp {
+    padding-top: 45px;
+    padding-bottom: 40px;
 }
 .fl-needs-trick-sec-wrp .fl-anyone-use-head{
 	padding-bottom: 45px;
@@ -275,8 +292,9 @@ span.fl-every-single-power-icon{
 .fl-needs-trick-dsc-3{
 	padding-top: 10px;
 }
-.fl-needs-trick-dsc-4{
-	padding-top: 20px;
+.fl-needs-trick-dsc-4 {
+    padding-top: 20px;
+    padding-right: 10px;
 }
 
 
@@ -284,7 +302,8 @@ span.fl-every-single-power-icon{
 	background-repeat: no-repeat !important;
 	background-position: center center !important;
 	background-size: cover !important;
-	padding-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
 	position: relative;
 }
 .fl-anything-about-head h2{
@@ -325,9 +344,12 @@ span.fl-every-single-power-icon{
     padding-left: 20px;
 }
 
-.fl-we-believe-block{
-	background: #fff;
-	border-radius: 10px;
+.fl-we-believe-block {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 .fl-we-believe-head{
 	border-radius: 5px 5px 0 0;
@@ -345,17 +367,20 @@ span.fl-every-single-power-icon{
 .fl-we-believe-head .btm-wave-img{
 	height: 16px;
 }
-.fl-we-believe-overflow{
-	overflow: hidden;
-}
 .fl-we-believe-wrp{
 	position: relative;
 }
-.fl-we-believe-img{
-	position: absolute;
-	left: -100px;
-	bottom: 0;
-	top: 0;
+.fl-we-believe-img {
+    position: absolute;
+    left: -100px;
+    bottom: 0;
+    top: 0;
+    max-width: 854px;
+    width: 100%;
+    height: 569px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
 }
 .fl-we-believe-dsc{
 	max-width: 560px;
@@ -379,7 +404,7 @@ span.fl-every-single-power-icon{
 	background-position: center center !important;
 	position: relative;
 	padding-top: 40px;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 }
 .fl-short-time-head{
 	padding: 0 20px;
