@@ -211,7 +211,7 @@ header.fl-hdr strong{
 .fl-rent-borrow-block:not(:last-child){
 	padding-bottom: 30px;
 }
-
+.fl-legal-credit-innr,
 .fl-upside-down-innr,
 .fl-good-news-innr {
     background: #fff;
@@ -221,6 +221,7 @@ header.fl-hdr strong{
 	-moz-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
 	box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
 }
+.fl-legal-credit-head,
 .fl-upside-down-head,
 .fl-good-news-head{
 	color: #fff;
@@ -230,6 +231,8 @@ header.fl-hdr strong{
     background-position: center bottom!important;
 	position: relative
 }
+
+.legal-credit-btm-wave,
 .upside-down-btm-wave,
 .good-news-btm-wave {
     position: absolute;
@@ -311,8 +314,6 @@ header.fl-hdr strong{
 	margin-bottom: 5px;
 	color: #ffea34;
 }
-
-
 .admin-intro-top-wave{
     position: absolute;
     left: 0;
@@ -335,15 +336,6 @@ header.fl-hdr strong{
     background-repeat: no-repeat !important;
     background-position: center bottom !important;
 }
-
-
-
-
-
-
-
-
-
 .fl-earn-money-sec{
 	padding: 40px 0;
 }
@@ -370,7 +362,6 @@ header.fl-hdr strong{
 	padding-right: 30px;
 	padding-left: 0;
 }
-
 .fl-earn-money-two-part-wrp .fl-earn-money-des p:last-child{
 	margin-bottom: 0;
 }
@@ -387,10 +378,6 @@ header.fl-hdr strong{
 	margin-bottom: 0;
 	font-family: "OpenSans-Bold";
 }
-
-
-
-
 .fl-upside-down-des-con{
     background-repeat: no-repeat!important;
     background-size: 100% 100%!important;
@@ -403,11 +390,6 @@ header.fl-hdr strong{
 .upside-down-xs{
 	display: none;
 }
-
-
-
-
-
 .fl-advantage-sec{
 	padding: 40px 0;
 }
@@ -453,11 +435,6 @@ header.fl-hdr strong{
 .fl-advantage-two-part-wrp li:nth-child(3) .fl-advantage-img{
 	padding-top: 76px;
 }
-
-
-
-
-
 .fl-future-danger-sec,
 .fl-major-breakdown-sec{
 	padding-top: 50px;
@@ -472,7 +449,6 @@ header.fl-hdr strong{
 .fl-major-breakdown-head h2{
 	margin-bottom: 30px;
 }
-
 .future-danger-top-wave,
 .major-breakdown-top-wave {
     position: absolute;
@@ -497,12 +473,6 @@ header.fl-hdr strong{
     background-repeat: no-repeat !important;
     background-position: center bottom !important;
 }
-
-
-
-
-
-
 .fl-secret-powerful-sec{
 	padding: 50px 0 45px;
 }
@@ -528,7 +498,6 @@ header.fl-hdr strong{
 .fl-bank-darling-rgt-des p:last-child{
 	margin-bottom: 0;
 }
-
 .fl-secret-powerful-dft-img{
 	margin-bottom: 30px;
 }
@@ -545,10 +514,12 @@ header.fl-hdr strong{
 
 
 
-
-
-
-
+.fl-legal-credit-sec{
+	padding: 50px 0;
+}
+.fl-legal-credit-des-wrp{
+	padding: 30px 30px 30px;
+}
 
 
 
