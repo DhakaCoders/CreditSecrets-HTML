@@ -41,10 +41,10 @@ span.fl-txt-line-bg {
     background-repeat: no-repeat!important;
     background-position: center center!important;
     background-size: 100% 100%!important;
-    margin-right: -15px;
-    margin-left: -15px;
-    padding-left: 15px;
-    padding-right: 15px;
+    margin-right: -10px;
+    margin-left: -10px;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-bottom: 5px;
     color: #000;
 }
@@ -229,7 +229,7 @@ span.fl-exposed-rgt-img {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -14px;
+    bottom: -12px;
     z-index: 1;
     height: 15px;
     background-size: cover !important;
@@ -249,6 +249,9 @@ span.fl-exposed-rgt-img {
     max-width: 619px;
     width: 100%;
     height: 463px;
+}
+.fl-every-single-tp-img img{
+    display: none;
 }
 .fl-every-single-tp-dsc {
     max-width: 540px;
@@ -368,13 +371,26 @@ span.fl-every-single-power-icon{
 	padding-top: 70px;
 	padding-bottom: 50px;
 }
+.fl-happened-overflow{
+    overflow: hidden;
+    position: relative;
+}
 .fl-happened-bdr{
 	border: 4px solid#000;
-	overflow: hidden;
+}
+.fl-happened-bdr > span {
+    position: absolute;
+    left: -50px;
+    top: 10px;
+    max-width: 275px;
+    width: 100%;
+    height: 148px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
 }
 .fl-happened-head{
-	padding-bottom: 25px;
-	padding-top: 35px;
+    padding: 35px 10px 25px;
 }
 .fl-happened-head h2{
 	margin: 0;
@@ -429,6 +445,9 @@ span.fl-every-single-power-icon{
     background-size: cover !important;
     background-position: center center !important;
 }
+.fl-we-believe-img img{
+    display: none;
+}
 .fl-we-believe-dsc{
 	max-width: 560px;
 	width: 100%;
@@ -469,20 +488,179 @@ span.fl-every-single-power-icon{
 .fl-short-time-dsc{
 	color: #fff;
 }
+.fl-short-time-dsc h5 span.fl-txt-line-bg{
+    padding: 12px 40px 12px 18px;
+    margin-left: 10px;
+}
+
+@media(max-width: 1599px){
+    span.health-caircle-lft {
+        left: -100px;
+        bottom: 100px;
+        max-width: 250px;
+        width: 100%;
+        min-height: 250px;
+    }
+    span.health-caircle-rgt {
+        right: -100px;
+        bottom: 100px;
+        max-width: 250px;
+        width: 100%;
+        min-height: 250px;
+    }
+    
+}
 
 
 @media(max-width: 1399px){
+    span.health-caircle-lft {
+        left: -15px;
+        bottom: 100px;
+        max-width: 200px;
+        width: 100%;
+        min-height: 200px;
+    }
+    span.health-caircle-rgt {
+        right: -15px;
+        bottom: 100px;
+        max-width: 200px;
+        width: 100%;
+        min-height: 200px;
+    }
+    .fl-anyone-two-part-cir {
+        right: -15px;
+        top: -100px;
+        max-width: 250px;
+        width: 100%;
+        height: 250px;
+    }
     
 }
 @media(max-width: 1199px){ 
-    
+    .health-risks-grd-wrp li {
+        width: 100%;
+        max-width: 380px;
+    }
+    span.fl-every-single-power-icon,
+    .fl-anyone-two-part-cir,
+    span.fl-exposed-rgt-img,
+    span.health-caircle-rgt,
+    span.health-caircle-lft{
+       display: none;
+    }
+    .fl-anyone-two-part-wrp {
+        height: auto;
+        border: 5px solid #000;
+    }
+    .fl-anyone-two-part-img {
+        position: static;
+        width: 100%;
+        text-align: right;
+    }
+    .fl-anyone-two-part-dsc {
+        max-width: 100%;
+        width: 100%;
+        border: none;
+        position: static;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 25px;
+    }
+    .fl-every-single-tp-img {
+        position: static;
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+        margin-bottom: 30px;
+        background: transparent !important;
+        text-align: center;
 
+    }
+    .fl-every-single-tp-dsc {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+        padding-right: 0;
+    }
+    .fl-every-single-tp-img img{
+        display: inline-block;
+        vertical-align: baseline;
+    }
+    .fl-every-single-middle-dsc.plr-10{
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .fl-every-single-btm-dsc p br{
+        display: none;
+    }
+    .fl-every-single-btm-img-1 {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .fl-every-single-btm-img-2 {
+        position: static;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .fl-every-single-btm-dsc-2 {
+        max-width: 100%;
+        width: 100%;
+        padding-left: 0;
+    }
+    .fl-needs-trick-img{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .fl-happened-sec-wrp .fl-every-single-btm-dsc-2 {
+        max-width: 100%;
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .fl-we-believe-img {
+        position: static;
+        max-width: 100%;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        background: transparent !important;
+        padding-top: 15px;
+    }
+    .fl-we-believe-img img{
+        display: inline-block;
+        vertical-align: baseline;
+        width: 100%;
+    }
+    .fl-we-believe-dsc {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+        padding-right: 0;
+        padding-top: 40px;
+    }
+    .fl-spark-img{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .fl-spark-dsc p br{
+        display: none;
+    }
+    
 }
 
 
-@media(max-width: 991px){
-   
 
+@media(max-width: 991px){
+    .health-risks-grd-wrp li {
+        width: 100%;
+        max-width: 350px;
+    }
+    .fl-every-single-head {
+        padding: 25px 30px 10px;
+    }
+    .fl-anything-about-head h2 br{
+        display: none;
+    }
 
 }
 
@@ -491,6 +669,30 @@ span.fl-every-single-power-icon{
     .fl-loophole-sec-wrp{
         padding-bottom: 10px;
     }
+    .health-risks-grd-wrp li {
+        width: 100%;
+        max-width: 370px;
+        margin-bottom: 30px;
+    }
+    .health-risks-img{
+        width: 100%;
+    }
+    .fl-anyone-use-sec-wrp {
+        padding-top: 50px;
+    }
+    .health-risks-grd-wrp {
+        padding-top: 30px;
+    }
+    .fl-exposed-wrp {
+        padding: 25px 30px 28px;
+    }
+    .fl-every-single-power {
+        padding: 20px 30px 5px;
+    }
+    .fl-every-single-head {
+        padding: 25px 20px 10px;
+    }
+
 }
 
 
@@ -502,12 +704,28 @@ span.fl-every-single-power-icon{
 
 
 @media(max-width: 575px){
-    
+    .fl-anyone-use-sec-wrp {
+        padding-top: 40px;
+    }
+    .fl-exposed-wrp {
+        padding: 25px 20px 28px;
+    }
+    .fl-every-single-power {
+        padding: 20px 20px 5px;
+    }
+    .fl-every-single-head {
+        padding: 25px 10px 10px;
+    }
 }
 
 
 @media(max-width: 479px){
-    
+    .fl-exposed-wrp {
+        padding: 25px 10px 28px;
+    }
+    .fl-every-single-power {
+        padding: 20px 10px 5px;
+    }
 
 }
 
