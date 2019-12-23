@@ -504,6 +504,117 @@ header.fl-hdr strong{
 	padding: 30px 30px 30px;
 }
 
+.legal-credit-list{
+	padding:25px 30px 30px 25px;
+	border: 4px solid #135d9d;
+	background: #fff;
+	max-width: 890px;
+	margin: 0 auto 35px;
+}
+.legal-credit-list li {
+    position: relative;
+    padding-left: 55px;
+    margin-bottom: 27px;
+}
+.legal-credit-list li img{
+	position: absolute;
+	left: 0;
+	top: 1px;
+	max-width: 34px;
+	width: 100%;
+}
+.legal-credit-list li:last-child{
+	margin-bottom: 0;
+}
+
+.legal-credit-grd-wrp {
+	text-align: center;
+	padding-top: 42px;
+	padding-bottom: 10px;
+}
+.legal-credit-grd-wrp ul {
+	margin-left: -16px;
+	margin-right: -16px;
+}
+.legal-credit-grd-wrp li {
+	width: 33.333%;
+	float: left;
+	padding-left: 16px;
+	padding-right: 16px;
+	margin-bottom: 50px;
+}
+.legal-credit-grd-wrp li:nth-child(3n+1){
+	clear: left;
+}
+.legal-credit-grd span{
+	font-family: "OpenSans-SemiBold";
+	display: inline-block;
+	vertical-align: baseline;
+}
+.legal-credit-grd img{
+	display: block;
+	margin: auto;
+	margin-bottom: 12px;
+}
+.legal-credit-grd-wrp li:last-child{
+	width:66.666%;
+	text-align: left!important;
+}
+.legal-credit-grd-wrp li:last-child .legal-credit-grd{
+	padding : 105px 0 15px;
+}
+.fl-legal-credit-des-wrp p:last-child{
+	margin-bottom: 0;
+}
+
+.fl-legal-ethical-sec{
+	padding-bottom: 45px;
+}
+.fl-legal-ethical-head{
+    margin-bottom: 30px;
+}
+.fl-legal-ethical-head h2{
+	margin-bottom: 5px;
+}
+.fl-legal-ethical-head h2 span{
+	color: #135d9d;
+}
+.legal-ethical-list{
+	padding:20px 82px;
+	background: #135d9d;
+	color: #fff;
+	max-width: 890px;
+	margin: 0 auto 30px;
+}
+.legal-ethical-list li {
+    position: relative;
+    width: 50%;
+    float: left;
+    padding:0 10px 0 55px;
+    margin: 15px 0 15px;
+}
+.legal-ethical-list li:nth-child(1) {
+    width: 58.6%;
+}
+.legal-ethical-list li:nth-child(2) {
+    width: 41.4%;
+}
+.legal-ethical-list li:nth-child(3) {
+    width: 58.6%;
+}
+.legal-ethical-list li:nth-child(4) {
+    width: 41.4%;
+}
+.legal-ethical-list li img{
+	position: absolute;
+	left: 0;
+	top: 1px;
+	max-width: 34px;
+	width: 100%;
+}
+.fl-legal-ethical-des p:last-child{
+	margin-bottom: 0;
+}
 
 
 
@@ -526,67 +637,54 @@ header.fl-hdr strong{
 
 
 
+/*
+.fl-dft-angle-block{
+	position: relative;
+	z-index: 1;
+}
+.fl-dft-angle-img {
+    position: absolute;
+    top: 0;
+    right: -37px;
+    bottom: 0;
+    left: 27%;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+.fl-dft-angle-des{
+	max-width: 720px;
+	position: relative;
+	z-index: 3;
+	color: #fff;
+	padding: 36px 145px 40px 55px;
+	background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background-position: center center !important;
+}
+.fl-dft-angle-des p:last-child{
+	margin-bottom: 0;
+}
+.fl-dft-angle-des-hdr{
+	position: relative;
+	padding-bottom: 35px;
+}
+.fl-dft-angle-des-hdr h2{
+	font-family: 'Vollkorn-BoldItalic';
+}
+.fl-dft-angle-des-hdr h2 span{
+	color:#135d9d;
+	display: block;
+}
+.fl-dft-angle-img img{
+	display: none
+}
+.fl-dft-angle-des p br{
+	display: block!important;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ */
 
 
 
