@@ -38,10 +38,10 @@
 .dft-multiline-bg p {
     margin-bottom: 0;
 }
-.dft-text-module .dft-multiline-bg p:last-child {
+/*.dft-text-module .dft-multiline-bg p:last-child {
     padding-bottom: 22px;
 }
-
+*/
 .cs-fill-blanks-sec{
 	padding-top: 40px;
 }
@@ -127,7 +127,11 @@
 
 .thats-not-all-sec-inr{
 	background: #fff;
-	padding: 0 30px 0;
+	padding: 0 30px 2px;
+	-webkit-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+	-moz-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+	box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+	margin-bottom: 85px;
 }
 .fl-sec-entry-hdr-blue{
 	text-align: center;
@@ -165,4 +169,55 @@
 }
 .thats-not-all-sec-row-imgs ul li{
 	padding-bottom: 5px;
+}
+
+.thats-not-all-sec-list-area{
+	-webkit-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+    -moz-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+    box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+    padding: 45px 41px 0 45px;
+    margin-bottom: 30px;
+}
+
+.thats-not-all-sec-list-area ul li{
+	padding: 0 0 25px 35px;
+	position: relative;
+}
+.thats-not-all-sec-list-area ul li img{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.cs-angle-grd-img-sec-inr{
+	border: 5px solid #000000;
+	padding: 25px 25px 2px;
+	position: relative;
+}
+
+.cs-angle-grd-des-col{
+	float: left;
+	width: 50%;
+}
+.cs-angle-grd-img-col {
+    float: right;
+    width: 63%;
+    position: absolute;
+    top: -35px;
+    bottom: -45px;
+    right: -11px;
+}
+.cs-angle-grd-img-col span{
+	display: block;
+}
+.cs-angle-grds-hdr{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.cs-angle-grds-hdr h2{
+	font-family: "OpenSans-BoldItalic";
+	margin-bottom: 5px;
+}
+.dft-multiline-span-bg-15 span{
+	margin-left: -15px;
 }
