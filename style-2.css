@@ -469,3 +469,50 @@ span.fl-every-single-power-icon{
 .fl-short-time-dsc{
 	color: #fff;
 }
+
+
+@media(max-width: 1399px){
+    
+}
+@media(max-width: 1199px){ 
+    
+
+}
+
+
+@media(max-width: 991px){
+   
+
+
+}
+
+
+@media(max-width: 767px){
+    .fl-loophole-sec-wrp{
+        padding-bottom: 10px;
+    }
+}
+
+
+
+@media(max-width: 639px){
+
+}
+
+
+
+@media(max-width: 575px){
+    
+}
+
+
+@media(max-width: 479px){
+    
+
+}
+
+
+
+@media(max-width: 359px){
+
+}
