@@ -262,6 +262,9 @@ h5 {
   h5 {
       font-size: 26px    
   }
+  p br{
+    display: none;
+  }
 } 
 
 
@@ -299,6 +302,9 @@ h5 {
   }
   .show-xs{
       display: block!important;
+  }
+  body {
+      font-size: 20px;
   }
 
   h1 {

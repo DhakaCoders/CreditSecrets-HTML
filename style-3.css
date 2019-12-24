@@ -13,7 +13,7 @@
 .dft-multiline-bg span {
     background-size: 100% 100%!important;
     background-repeat: no-repeat!important;
-    background-position: center center;
+    background-position: center center!important;
     background-size: contain;
     display: inline-block;
     vertical-align: baseline;
@@ -121,7 +121,9 @@
 	left: 0;
 	bottom: 141px;
 }
-
+.thats-not-all-sec{
+	padding-top: 15px;
+}
 .thats-not-all-sec-inr{
 	background: #fff;
 	padding: 0 30px 2px;
@@ -451,4 +453,42 @@
 .fl-ftr-des{
     color: #77818a;
     padding: 0 10px;
+}
+
+
+@media(max-width: 1199px){
+	.fl-sec-entry-hdr h2 {
+	    margin-bottom: 10px;
+	}
+
+} 
+
+
+@media(max-width: 991px){
+
+}
+
+@media(max-width: 767px){    
+	.fl-sec-entry-hdr h2 span{
+		display: inline;
+	}
+}
+
+@media(max-width: 639px){
+
+}
+ 
+@media(max-width: 575px){
+	.cs-fill-blanks-sec-rgt-circles {
+	    width: 158px;
+	    height: 158px;
+	}
+}
+
+@media(max-width: 479px){
+
+}
+
+@media(max-width: 359px){
+
 }
