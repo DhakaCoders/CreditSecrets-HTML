@@ -32,8 +32,8 @@
     margin-left: -20px;
 }
 .dst-mll-16{
-	margin-left: -16px;
-	margin-right: -16px;
+	margin-left: -15px;
+	margin-right: -15px;
 }
 .dft-multiline-bg p {
     margin-bottom: 0;
@@ -125,9 +125,9 @@
 .thats-not-all-sec-inr{
 	background: #fff;
 	padding: 0 30px 2px;
-	-webkit-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
-	-moz-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
-	box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+	-webkit-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
+	-moz-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
+	box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
 	margin-bottom: 85px;
 }
 .fl-sec-entry-hdr-blue{
@@ -169,11 +169,20 @@
 }
 
 .thats-not-all-sec-list-area{
-	-webkit-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
-    -moz-box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
-    box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1);
+	-webkit-box-shadow: 0 1px 9px 0 rgba(180, 179, 179, 1);
+    -moz-box-shadow: 0 1px 9px 0 rgba(180, 179, 179, 1);
+    box-shadow: 0 1px 9px 0 rgba(180, 179, 179, 1);
     padding: 45px 41px 25px 45px;
     margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+.corner-dots-img {
+    position: absolute;
+    right: -114px;
+    top: -117px;
+    width: 319px;
+    height: 319px;
 }
 
 .thats-not-all-sec-list-area ul li{
@@ -247,10 +256,10 @@
     position: absolute;
     left: 0;
     right: 0;
-    top: -34px;
-    height: 35px;
+    top: -28px;
+    height: 30px;
     background-repeat: repeat-x!important;
-    background-position: center top!important;
+    background-position: center center!important;
     background-size: cover!important;
 }
 .cs-double-money-back-sec-btm-wave{
@@ -260,7 +269,7 @@
     bottom: -25px;
     height: 26px;
     background-repeat: repeat-x!important;
-    background-position: center bottom!important;
+    background-position: center center!important;
     background-size: cover!important;
 }
 
@@ -282,7 +291,13 @@
 }
 
 
-
+.cs-cart-btns-sec{
+	padding: 10px 0 25px;
+}
+.fl-add-to-cart-btn{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 
 .fl-add-to-cart-btn a{
 	margin-bottom: 15px;
@@ -290,8 +305,81 @@
 	vertical-align: baseline;
 }
 
+.cs-cart-btns-top-sec{
+	padding: 50px 0 0;
+}
+.fl-txt-underline{
+	text-decoration: underline;
+}
+.cs-cart-btns-top-sec-img{
+	padding-top: 30px;
+}
+.cs-cart-btns-top-sec-img{
+	margin-left: -15px;
+}
+.cs-cart-btns-top-sec-img img{
+	width: 100%;
+}
 
 
+.cs-fasted-sec{
+	position: relative;
+	padding: 30px 0 10px;
+	color: #fff;
+	background-repeat: no-repeat!important;
+    background-position: center center!important;
+    background-size: cover!important;
+    margin-top: 65px;
+    margin-bottom: 5px;
+}
+.cs-fasted-sec-top-wave {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -27px;
+    height: 39px;
+    background-repeat: repeat-x!important;
+    background-position: center center!important;
+    background-size: cover!important;
+}
+.cs-fasted-sec-btm-wave{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -25px;
+    height: 26px;
+    background-repeat: repeat-x!important;
+    background-position: center center!important;
+    background-size: cover!important;
+}
+.cs-fasted-sec-hdr{
+	text-align: center;
+	padding-bottom: 15px;
+}
+.cs-fasted-sec .container{
+	max-width: 1200px;
+}
+
+.cs-numbr-titles-area{
+	padding: 0 41px 0 30px;
+}
+.cs-numbr-title{
+	padding: 10px 30px 15px 155px;
+	background: #fff;
+	border-radius: 30px;
+	color: #000;
+	display: inline-block;
+	vertical-align: baseline;
+	font-family: 'OpenSans-Regular';
+	position: relative;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.cs-numbr-title img{
+	position: absolute;
+	left: 40px;
+	top: -34px;
+}
 
 
 .fl-footer-wrap {
