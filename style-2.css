@@ -71,11 +71,15 @@ span.fl-txt-line-bg {
 	padding-bottom: 25px;
 }
 .fl-anyone-use-head h2 span{
-	display: inline-block;
-	vertical-align: baseline;
+	display:block;
 	color: #135d9d;
 }
 
+.fl-needs-trick-sec-wrp .fl-anyone-use-head h2 span{
+    display:inline-block;
+    vertical-align: baseline;
+    color: #135d9d;
+}
 .health-risks-grd-wrp{
 	padding-top: 40px;
 	position: relative;
@@ -412,8 +416,9 @@ span.fl-every-single-power-icon{
 	text-align: center;
 	padding-bottom: 20px;
 }
-.fl-happened-head h2 span{
-	color: #135d9d;
+.fl-happened-head h2 span {
+    color: #135d9d;
+    display: block;
 }
 .fl-happened-sec-wrp .fl-every-single-btm-dsc-2 {
     max-width: 545px;
@@ -433,8 +438,6 @@ span.fl-every-single-power-icon{
 	text-align: center;
 	padding: 30px 10px;
 	position: relative;
-	margin-left: -15px;
-	margin-right: -15px;
 }
 .fl-we-believe-head h2{
 	color: #fff;
@@ -660,7 +663,7 @@ span.fl-every-single-power-icon{
         height: 100%;
         text-align: center;
         background: transparent !important;
-        padding-top: 15px;
+        padding-top: 10px;
     }
     .fl-we-believe-img img{
         display: inline-block;
@@ -695,6 +698,20 @@ span.fl-every-single-power-icon{
         display: inline-block;
         vertical-align: baseline;
         width: 100%;
+    }
+    .fl-needs-trick-sec-wrp .fl-anyone-use-head h2 br{
+        display: none;
+    }
+    .fl-happened-head h2 span,
+    .fl-anyone-use-head h2 span{
+        display: inline;
+    }
+    .fl-anyone-use-head h2 br{
+        display: none;
+    }
+    .fl-anything-about-head h2 br,
+    .health-risks-dsc h5 br{
+        display: none;
     }
 
     
