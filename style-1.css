@@ -109,7 +109,6 @@ header.fl-hdr strong{
 	z-index: 2
 
 }
-
 .fl-jay-hannon-innr{
 	background: #fff;
 	padding: 0 30px 40px;
@@ -575,7 +574,6 @@ header.fl-hdr strong{
 	right: -65px;
 	z-index: 1;
 }
-
 .fl-legal-credit-des-wrp > i img{
 	width: 100%;
 }
@@ -637,7 +635,6 @@ header.fl-hdr strong{
 .fl-legal-credit-des-wrp p:last-child{
 	margin-bottom: 0;
 }
-
 .fl-legal-ethical-sec{
 	padding-bottom: 45px;
 }
@@ -687,15 +684,6 @@ header.fl-hdr strong{
 .fl-legal-ethical-des p:last-child{
 	margin-bottom: 0;
 }
-
-
-
-
-
-
-
-
-
 .fl-angle-block-wrp{
     position: relative;
     padding: 35px 0 35px;
@@ -750,13 +738,6 @@ header.fl-hdr strong{
 .fl-angle-block-sec{
 	padding-top: 60px;
 }
-
-
-
-
-
-
-
 span.fl-txt-line-y-bg {
     font-family: "OpenSans-Bold";
     display: inline-block;
@@ -774,36 +755,47 @@ span.fl-txt-line-y-bg {
 }
 
 
-/* 
-
-
-
-<span class="fl-txt-line-y-bg lazy" data-src="assets/images/txt-line-y-bg-002.png"> 
 
 
 
 
 
 
+@media(max-width: 1379px){
 
+}
 
+@media(max-width: 1199px){
 
+} 
 
+@media(max-width: 1023px){
 
-*/
+}
 
+@media(max-width: 991px){
 
+}
 
+@media(max-width: 767px){
 
+}
 
+@media(max-width: 639px){
 
+}
+ 
+@media(max-width: 575px){
 
+}
 
+@media(max-width: 479px){
 
+}
 
+@media(max-width: 359px){
 
-
-
+}
 
 
 
