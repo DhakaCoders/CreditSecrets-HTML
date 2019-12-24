@@ -213,15 +213,13 @@ span.fl-exposed-rgt-img {
 
 
 .fl-every-single-block {
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    background-position: center center !important;
     position: relative;
     border: 10px;
     overflow: hidden;
     -webkit-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
     -moz-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
-    box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
+    box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1)
+    background:#fff;
 }
 .fl-every-single-head {
     text-align: center;
