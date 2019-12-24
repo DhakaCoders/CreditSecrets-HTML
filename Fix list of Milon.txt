@@ -1,0 +1,36 @@
+Desktop
+-----------------
+1. https://www.screencast.com/t/j2DCQfS2
+	boro window te img ta haray jay. top and bottom ar. 
+	bg-size: center center dile maybe thik thakbe
+
+2. https://www.screencast.com/t/t3TvZHEyJ
+	ai layer ta missing 
+
+3. https://www.screencast.com/t/d5gyXldpI
+	bottom img top ar dike ar aktu crop korle milbe maybe
+
+4. https://www.screencast.com/t/MD6Tu20EGmAr
+	ai gap ta ar aktu besi hobe
+
+5. https://www.screencast.com/t/okH533apcaO
+	span ar display block jehetu ache . so br tag lagbena
+
+6. https://www.screencast.com/t/cvaALBc5IrQ
+	img ta aro left a asbe . width barao
+
+7. https://www.screencast.com/t/WUFaVcC4
+	white bg missing
+
+8. https://www.screencast.com/t/rwOvOJKbUP
+	gap 5px besi hobe
+
+9. https://www.screencast.com/t/pJpRVW7OjAD7
+	ata right side a 5px ber kora thakbe
+
+10. https://www.screencast.com/t/kffkIFpn9K
+	i) ai white bg ta missing 
+	ii) https://www.screencast.com/t/FgQ3g02d
+		then ai box under a sob img gulo png thake jpg korte hobe
+		
+11. 
