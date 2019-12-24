@@ -278,10 +278,7 @@ header.fl-hdr strong{
 }
 .fl-good-news-des{
 	width: 51.3%;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-top: 35px;
-	padding-bottom: 20px;
+	padding: 35px 30px 20px;
 }
 .fl-upside-down-img img,
 .fl-good-news-img img{
@@ -336,10 +333,13 @@ header.fl-hdr strong{
 .fl-admin-intro-sec{
 	position: relative;
 	color: #fff;
-	padding: 50px 0 55px;
+	padding: 55px 0;
     background-repeat: no-repeat!important;
     background-size: 100% 100%!important;
     background-position: center bottom!important;
+}
+.fl-admin-intro-head h2{
+	margin-bottom: 33px;
 }
 .fl-admin-intro-rgt-des{
 	width: 51.3%;
@@ -347,7 +347,7 @@ header.fl-hdr strong{
 	padding-right: 30px;
 }
 .fl-admin-intro-q-mark {
-	padding: 16px 0 42px;
+	padding: 22px 0 45px;
 }
 .fl-admin-intro-q-mark h2{
 	margin-bottom: 5px;
@@ -773,12 +773,122 @@ span.fl-txt-line-y-bg {
 	.special-offer-dsc h3 {
 	    line-height: 42px;
 	}
-
+	.fl-earn-money-head h4 br{
+	    display: none;
+	}
+	.fl-advantage-two-part-wrp li:nth-child(2n+2) .fl-advantage-des {
+	    padding-left: 0;
+	}
+	.fl-advantage-two-part-wrp .fl-advantage-des {
+	    padding-right: 0;
+	}
+	.fl-advantage-sec {
+	    padding: 40px 0 55px;
+	}
+	.fl-secret-powerful-des {
+	    padding-bottom: 30px;
+	}
 } 
 
 @media(max-width: 1023px){
-
+	.fl-prisoner-two-part-wrp li:nth-child(2n+1) .fl-prisoner-img,
+	.fl-prisoner-two-part-wrp .fl-prisoner-img{
+		width: 100%;
+		float: left;
+		padding-top: 0;
+		margin-bottom: 25px;
+	}
+	.fl-prisoner-two-part-wrp li:nth-child(2n+1) .fl-prisoner-des,
+	.fl-prisoner-two-part-wrp .fl-prisoner-des{
+		width:  100%;
+		float: left;
+		padding-left: 0;
+	}
+	.fl-good-news-img{
+		width: 100%;
+		min-height: initial;
+	    background-image: none!important;
+	}
+	.fl-good-news-des{
+		width: 100%;
+		padding: 30px 20px 25px;
+	}
+	.fl-upside-down-img img,
+	.fl-good-news-img img{
+		display: inline-block;
+	}
+	.fl-admin-intro-lft-img,
+	.fl-bank-darling-lft-img{
+		width: 100%;
+		margin-bottom: 25px;
+	}
+	.fl-admin-intro-rgt-des,
+	.fl-bank-darling-rgt-des{
+		width: 100%;
+		padding-left: 0;
+    	padding-right: 0;
+	}
+	.fl-earn-money-two-part-wrp li:nth-child(2n+1) .fl-earn-money-img,
+	.fl-earn-money-two-part-wrp .fl-earn-money-img{
+		width: 100%;
+		float: left;
+		margin-bottom: 25px;
+	}
+	.fl-earn-money-two-part-wrp li:nth-child(2n+1) .fl-earn-money-des,
+	.fl-earn-money-two-part-wrp .fl-earn-money-des{
+		width:  100%;
+		float: left;
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.fl-earn-money-two-part-wrp li:not(:last-child){
+		margin-bottom: 35px;
+	}
+	.upside-down-xs {
+	    display: block;
+	    text-align: center;
+	}
+	.fl-upside-down-des {
+	    max-width: initial;
+	    padding: 25px 0;
+	}
+	.fl-upside-down-des-con {
+		background-image: none!important;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.fl-advantage-two-part-wrp li:nth-child(2n+2) .fl-advantage-img,
+	.fl-advantage-two-part-wrp .fl-advantage-img{
+		width: 100%;
+		float: left;
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	.fl-advantage-two-part-wrp li:nth-child(2n+2) .fl-advantage-des,
+	.fl-advantage-two-part-wrp .fl-advantage-des{
+		width:  100%;
+		float: left;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.fl-advantage-two-part-wrp li:not(:last-child){
+		margin-bottom: 35px;
+	}
+	.fl-advantage-two-part-wrp li:nth-child(1) .fl-advantage-img,
+	.fl-advantage-two-part-wrp li:nth-child(2) .fl-advantage-img,
+	.fl-advantage-two-part-wrp li:nth-child(3) .fl-advantage-img{
+		padding-top: 0;
+	}
+	.fl-secret-powerful-lft-img{
+		width: 100%;
+		margin-bottom: 25px;
+	}
+	.fl-secret-powerful-rgt-des{
+		width:100%;
+		padding-left: 0;
+	}
 }
+
 
 @media(max-width: 991px){
 	.special-offer-dsc h3 {
@@ -788,20 +898,87 @@ span.fl-txt-line-y-bg {
 	.special-offer-dsc {
 	    padding: 65px 40px 70px 0;
 	}
+	.fl-major-breakdown-head h2 br,
+	.fl-admin-intro-head h2 br{
+		display: none;
+	}
+	.legal-ethical-list {
+	    padding: 20px 50px;
+	}
 }
 
 @media(max-width: 767px){
-.special-offer-dsc strong {
-    font-size: 25px;
-}
-
+	.special-offer-dsc strong {
+	    font-size: 25px;
+	}
+	.fl-earn-money-head .fl-earn-money-head-innr {
+	    padding: 38px 20px 33px;
+	}
+	.legal-credit-list {
+	    padding: 25px 15px;
+	    border: 2px solid #135d9d;
+	}
+	.legal-credit-grd-wrp li:nth-child(3n+1) {
+	    clear: initial;
+	}
+	.legal-credit-grd-wrp li:nth-child(2n+1) {
+	    clear: left;
+	}
+	.legal-credit-grd-wrp li {
+	    width: 50%;
+	}
+	.legal-credit-grd-wrp li:last-child {
+	    width: 50%;
+	    text-align: left!important;
+	}
+	.legal-credit-grd-wrp li:last-child .legal-credit-grd {
+	    padding: 15px 0 15px;
+	}
+	.legal-credit-grd-wrp li {
+	    margin-bottom: 30px;
+	}
+	.legal-ethical-list li span br{
+	    display: none;
+	}
+	.legal-ethical-list li:nth-child(1),
+	.legal-ethical-list li:nth-child(2),
+	.legal-ethical-list li:nth-child(3),
+	.legal-ethical-list li:nth-child(4) {
+	    width: 100%;
+	}
+	.legal-ethical-list {
+	    padding: 20px 20px;
+	}
 }
 
 @media(max-width: 639px){
-.special-offer-dsc {
-    padding: 55px 25px;
-    text-align: center;
-}
+	.special-offer-dsc {
+	    padding: 55px 25px;
+	    text-align: center;
+	}
+	.legal-credit-list li img {
+	    max-width: 28px;
+	}
+	.legal-credit-list li {
+	    position: relative;
+	    padding-left: 40px;
+	    margin-bottom: 21px;
+	    z-index: 2;
+	    font-size: 22px;
+	}
+	.fl-legal-credit-des-wrp {
+	    padding: 30px 19px 30px;
+	}
+	.legal-credit-grd-wrp li:nth-child(2n+1) {
+	    clear: initial;
+	}
+	.legal-credit-grd-wrp li {
+	    width: 100%;
+	}
+	.legal-credit-grd-wrp li:last-child {
+	    width:100%;
+	    text-align: left!important;
+	}
 }
  
 @media(max-width: 575px){
@@ -809,9 +986,17 @@ span.fl-txt-line-y-bg {
 }
 
 @media(max-width: 479px){
-.special-offer-dsc {
-    padding: 50px 0px;
-}
+	.special-offer-dsc {
+	    padding: 50px 0px;
+	}
+	.legal-ethical-list li {
+	    margin: 10px 0;
+	    padding: 0 10px 0 45px;
+	    font-size: 20px;
+	}
+	.legal-ethical-list li img {
+	    max-width: 26px;
+	}
 }
 
 @media(max-width: 359px){
