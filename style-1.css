@@ -299,7 +299,6 @@ header.fl-hdr strong{
 }
 .fl-bank-darling-head h2 span{
 	color: #135d9d;
-	display: block;
 }
 .fl-bank-darling-top-des{
 	position: relative
@@ -312,6 +311,9 @@ header.fl-hdr strong{
 }
 .fl-bank-darling-top-des i >img{
 	width: 100%;
+}
+.fl-bank-darling-video{
+	margin-bottom:25px;
 }
 .fl-bank-darling-two-part{
 	padding-bottom: 60px;
@@ -529,7 +531,6 @@ header.fl-hdr strong{
 }
 .fl-secret-powerful-head h2 span{
 	color: #135d9d;
-	display: block;
 }
 .fl-secret-powerful-two-part{}
 
@@ -645,6 +646,9 @@ header.fl-hdr strong{
 .fl-legal-ethical-head h2{
 	margin-bottom: 5px;
 }
+.fl-legal-ethical-head h2:first-child {
+    margin-bottom: 10px;
+}
 .fl-legal-ethical-head h2 span{
 	color: #135d9d;
 	display: block;
@@ -719,23 +723,33 @@ header.fl-hdr strong{
 }
 .angle-block-head h2 span{
 	color:#135d9d;
-	display: block;
+}
+.angle-block-des{
+	padding-right: 110px;
 }
 .angle-block-des p:last-child{
 	margin-bottom: 0;
 }
 .fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-des-con {
     padding: 25px 103px 30px 23px!important;
+	border-color: #000!important;
 }
 .fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-img{
     left: 38% !important;
 }
+.fl-bank-darling-sec .fl-angle-block-wrp .angle-block-des{
+	padding-right: 200px !important;
+}
 .fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-des-con {
     padding: 25px 58px 30px 23px!important;
+	border-color: #000!important;
 }
 .fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-img{
     left: 43% !important;
 } 
+.fl-angle-block-sec .fl-angle-block-wrp .angle-block-des {
+    padding-right: 196px;
+}
 .fl-angle-block-sec{
 	padding-top: 60px;
 }
@@ -788,6 +802,27 @@ span.fl-txt-line-y-bg {
 	.fl-secret-powerful-des {
 	    padding-bottom: 30px;
 	}
+	.fl-angle-block-img{
+		background-image: none!important;
+		position: static;
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	.fl-angle-block-img img{
+		display: inline-block;
+	}
+	.fl-angle-block-des-con,
+	.fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-des-con,
+	.fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-des-con {
+		max-width: initial!important;
+	    padding: 25px!important;
+	}
+	.angle-block-des,
+	.fl-bank-darling-sec .fl-angle-block-wrp .angle-block-des,
+	.fl-angle-block-sec .fl-angle-block-wrp .angle-block-des {
+	    padding-right: 0 !important;
+	}	
+
 } 
 
 @media(max-width: 1023px){
@@ -952,6 +987,12 @@ span.fl-txt-line-y-bg {
 	.legal-ethical-list {
 	    padding: 20px 20px;
 	}
+	.fl-legal-ethical-head h2 br,
+	.fl-advantage-head h2 br,
+	.fl-secret-powerful-head h2 br,
+	.fl-bank-darling-head h2 br{
+		display: none;
+	}
 }
 
 @media(max-width: 639px){
@@ -981,6 +1022,9 @@ span.fl-txt-line-y-bg {
 	.legal-credit-grd-wrp li:last-child {
 	    width:100%;
 	    text-align: left!important;
+	}
+	.angle-block-head h2 br{
+		display: none;
 	}
 }
  
