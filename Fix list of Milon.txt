@@ -81,3 +81,6 @@ Desktop
 
 26. https://www.screencast.com/t/SpVwRbruTz2
 	ata vdo hobe. pore add kora jabe client ar kache sune
+
+27. https://www.screencast.com/t/vEelGsQd
+	data-src nai and lazy class. aro bes kyjay nai. valo kore check kore dekhio
