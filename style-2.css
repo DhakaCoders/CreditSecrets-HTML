@@ -219,6 +219,9 @@ span.fl-exposed-rgt-img {
     position: relative;
     border: 10px;
     overflow: hidden;
+    -webkit-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
+    -moz-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
+    box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
 }
 .fl-every-single-head {
     text-align: center;
