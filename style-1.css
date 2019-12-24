@@ -838,6 +838,7 @@ span.fl-txt-line-y-bg {
 		width:  100%;
 		float: left;
 		padding-left: 0;
+		padding-right: 0;
 	}
 	.fl-good-news-img{
 		width: 100%;
@@ -987,6 +988,15 @@ span.fl-txt-line-y-bg {
 	.legal-ethical-list {
 	    padding: 20px 20px;
 	}
+	.fl-bank-darling-two-part {
+	    padding-bottom: 50px;
+	}
+	.fl-bank-darling-sec {
+	    padding: 50px 0 35px;
+	}
+	.fl-earn-money-sec {
+	    padding: 40px 0 50px;
+	}
 	.fl-legal-ethical-head h2 br,
 	.fl-advantage-head h2 br,
 	.fl-secret-powerful-head h2 br,
@@ -1025,6 +1035,12 @@ span.fl-txt-line-y-bg {
 	}
 	.angle-block-head h2 br{
 		display: none;
+	}
+	.fl-jay-hannon-hdr {
+	    padding: 30px 20px 40px;
+	}
+	.fl-jay-hannon-innr {
+	    padding: 0 20px 40px;
 	}
 }
  
