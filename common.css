@@ -324,6 +324,10 @@ h5 {
   }
   p {
       margin-bottom: 20px;
+      margin-bottom: 25px;
+  }
+  .dft-multiline-bg{
+    padding-bottom: 25px;
   }
 }
 
