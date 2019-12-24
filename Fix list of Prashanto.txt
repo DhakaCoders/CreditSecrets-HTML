@@ -1,0 +1,85 @@
+1. https://www.screencast.com/t/sf893fwgo
+	bg-size: 100% use kora jabena.  cover use koro
+
+2. https://www.screencast.com/t/f9CQ2w95Xz
+	ai img 2 ta container thake bahire hobe
+
+3. https://www.screencast.com/t/a2TPXkUIISa
+	i) aita vdo hobe .
+	ii) border and shodow css diye manage korte hobe
+
+4. https://www.screencast.com/t/fA1kqFy62cSr
+	text and img ar maje gap hobe
+
+5. https://www.screencast.com/t/zJKApmOyN
+	img ta contaner thake right a ber kora thakbe
+
+6. i) https://www.screencast.com/t/Y2c1UOKsxc
+	 'a' letter ta right a jabe. 
+	ii) https://www.screencast.com/t/OYxuVjcM
+		ai word ta right a jabe
+
+7. https://www.screencast.com/t/PgSaADZdL
+	top and bottom wave img ta kata pore. bg-position center cente dile thik thakbe maybe
+	aro jotogulo section a amon use korcho. sob gulo te same hobe
+
+8. https://www.screencast.com/t/VlayxiIhJ9S4
+	ai rokom joto gulo vdo ache ager fix ar motoi hobe
+
+9. https://www.screencast.com/t/qvKaDXAZ
+	ai layer gulo missing
+
+10. https://www.screencast.com/t/R4dxuPLbB
+	ai gap ta r aktu besi hobe maybe
+
+11. https://www.screencast.com/t/Xx48Ca7a3NS
+	airokom joto img use kora hoiche sob gulo te repeat-x bole hobe
+
+12. https://www.screencast.com/t/Q4s4M66e
+	gap kom mone hosche
+
+13. https://www.screencast.com/t/HErZxLq3yP
+	i) bg white hobe 
+	ii) heading ar bottom bg ta jpg hobe. jehetu wihte bg
+
+14. https://www.screencast.com/t/laTlQBad
+	top and bottom a img atotuku ber kora thakbe. besi besi mone hosche
+
+15. https://www.screencast.com/t/vXMtQOPk4TuL
+	https://www.screencast.com/t/1Bz9mpq0Zr
+	ai layer ta missing
+
+16. https://www.screencast.com/t/VeYXvOvPiIJw
+	ai gap 2 ta kom besi hoiche
+	left gap ta img tar (-) margin kore manage korte paro
+
+17. https://www.screencast.com/t/Q3JpwWGwuHIu
+	ai gap ta aktu kom hobe maybe
+
+18. https://www.screencast.com/t/9cPFD5d9tLa4
+	ak line a hobe
+
+19. https://www.screencast.com/t/sTsjMphq
+	ai layer 2 ta missing
+
+20. https://www.screencast.com/t/5B4xbKiZwP
+	italic hobe
+
+21. https://www.screencast.com/t/wfLByKJlGz
+	i) white bg hobe 
+	ii) then heading ar bottom img ta jpg hobe
+
+22. https://www.screencast.com/t/Ts9AjPoqC
+	line brk milnei
+
+23. https://www.screencast.com/t/S7VRugmy
+	jpg hobe jehetu wihte bg. r onno kotha white bg ar thakle jpg hobe
+
+24. https://www.screencast.com/t/bXZZR0YZJ68W
+	border and img missing
+
+25. https://www.screencast.com/t/9inHy46WQS
+	ai word ta right a jabe
+
+26. https://www.screencast.com/t/wqHCKWiv
+	ai img ta and border missing
