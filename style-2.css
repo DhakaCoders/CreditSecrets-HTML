@@ -2,7 +2,7 @@
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
 	background-position: center !important;
-	padding: 30px 0;
+	padding: 40px 0 20px;
 	position: relative;
 }
 .fl-loophole-head h2{
@@ -19,19 +19,19 @@
     top: -26px;
     z-index: 1;
     height: 27px;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+    background-size: center center !important;
+    background-repeat: repeat-x !important;
     background-position: center top !important;
 }
 .btm-wave-img{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -15px;
+    bottom: -38px;
     z-index: 1;
-    height: 25px;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+    height: 40px;
+    background-size: center center !important;
+    background-repeat: repeat-x !important;
     background-position: center bottom !important;
 }
 span.fl-txt-line-bg {
@@ -88,13 +88,13 @@ span.fl-txt-line-bg {
 }
 .health-risks-grd-wrp li {
     width: 100%;
-    max-width: 368px;
+    max-width: 375px;
     display: inline-block;
     vertical-align: top;
     margin-bottom: 50px;
 }
 .health-risks-img {
-    width: 365px;
+    width: 375px;
     height: 305px;
     margin: 0 auto;
     background-repeat: no-repeat!important;
@@ -172,7 +172,7 @@ span.fl-exposed-rgt-img {
 }
 .fl-anyone-two-part-img{
     position: absolute;
-    right: 0;
+    right: -5px;
     top: 0;
     bottom: 0;
     width: 58%;
@@ -187,8 +187,9 @@ span.fl-exposed-rgt-img {
     bottom: 40px;
     z-index: -1;
     padding-right: 250px;
-    padding-left: 20px;
+    padding-left: 25px;
     padding-top: 25px;
+    background: #fff;
 }
 .fl-anyone-two-part-head{
     text-align: center;
@@ -219,7 +220,6 @@ span.fl-exposed-rgt-img {
     -webkit-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
     -moz-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
     box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1)
-    background:#fff;
 }
 .fl-every-single-head {
     text-align: center;
@@ -449,6 +449,7 @@ span.fl-every-single-power-icon{
 }
 .fl-we-believe-head .btm-wave-img{
 	height: 16px;
+    bottom: -11px;
 }
 .fl-we-believe-wrp{
 	position: relative;
@@ -588,6 +589,7 @@ span.fl-every-single-power-icon{
     .fl-anyone-two-part-wrp {
         height: auto;
         border: 5px solid #000;
+        background: #fff;
     }
     .fl-anyone-two-part-img {
         position: static;
@@ -602,6 +604,7 @@ span.fl-every-single-power-icon{
         padding-right: 20px;
         padding-left: 20px;
         padding-top: 25px;
+        background:transparent;
     }
     .fl-every-single-tp-img {
         position: static;
