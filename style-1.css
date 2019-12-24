@@ -905,6 +905,9 @@ span.fl-txt-line-y-bg {
 	.legal-ethical-list {
 	    padding: 20px 50px;
 	}
+	.fl-rent-borrow-head h2 br{
+	    display: none;
+	}
 }
 
 @media(max-width: 767px){
