@@ -88,37 +88,37 @@
 Ager fix thake
 -------------
 9. https://www.screencast.com/t/qvKaDXAZ
-	ai layer gulo missing .baki jotohulo amon ache sob gulote same hobe. --done
+	ai layer gulo missing .baki jotohulo amon ache sob gulote same hobe. --done  <--Ok
 
 10. https://www.screencast.com/t/R4dxuPLbB
-	ai gap ta r aktu besi hobe maybe --done
+	ai gap ta r aktu besi hobe maybe --done  <--Ok
 
 	https://www.screencast.com/t/i83qQoQUu
-	ai gap 45 ar moto hobe --done
+	ai gap 45 ar moto hobe --done  <---Ok
 
 16. https://www.screencast.com/t/VeYXvOvPiIJw
-	ai gap 2 ta kom besi hoiche --done
+	ai gap 2 ta kom besi hoiche --done 
 	left gap ta, img tar (-) margin kore manage korte paro
 
 17. https://www.screencast.com/t/Q3JpwWGwuHIu
-	ai gap ta aktu kom hobe maybe --done
+	ai gap ta aktu kom hobe maybe --done  <--Ok
 
-	beso kome hoye geche . ata rakkho  --done
+	besi kom hoye geche . ata rakkho  --done  <--Ok
 	https://www.screencast.com/t/kDqcwicO
 
 24. https://www.screencast.com/t/bXZZR0YZJ68W
-	 img missing --done 
+	 img missing --done  <--Ok
 
 New
 ---------
 1. https://www.screencast.com/t/5FrAXiEgSUqu
-	abar name layer missing --done
+	abar name layer missing --done  <--Ok
 
 2. https://www.screencast.com/t/y3p71RcsMlN
-	vdo ar shadow ta aktu blue type ar hobe --done
+	vdo ar shadow ta aktu blue type ar hobe --done  <--Ok
 
 3. https://www.screencast.com/t/Qr7Kq5HMSgZ
-	gap besi hobe --done
+	gap besi hobe --done  <--Ok
 
 4. https://www.screencast.com/t/xwgwdvvGc
 	img ta maring top kore upore uthbe. responsive abar '0' kore dite hobe. red
@@ -127,13 +127,13 @@ Responsive
 ----------------
 
 1. https://www.screencast.com/t/eqK8WuY37M3V
-	ai media te ai code gulo lagbena --done
+	ai media te ai code gulo lagbena --done  <--Ok
 
 2. https://www.screencast.com/t/3bJl0fPnwf
-	img ta jokhon full width hosche , tokhon top a padding-top 30 daw --done
+	img ta jokhon full width hosche , tokhon top a padding-top 30 daw --done  <--Ok
 
 3. https://www.screencast.com/t/Cahqw0Z0B9
-	br none korte hobe. j media thake dorkar ---done
+	br none korte hobe. j media thake dorkar ---done  <--Ok
 
 4. https://www.screencast.com/t/0DFfjjVu6rF
 	i) ai img ta jokhon full width hosche tokhon border ar vitorei thakbe, bahire hobena. r img ta angle ai thakbe. ---done
@@ -146,22 +146,22 @@ Responsive
 	https://www.screencast.com/t/H7K0p95rwR
 
 5. https://www.screencast.com/t/wiyr0Jhg
-	575px a img 2 ta, 2 side a -19px kore daw --done
+	575px a img 2 ta, 2 side a -19px kore daw --done  <--Ok
 
 6. https://www.screencast.com/t/LOkl3wZ20l
-	767px  a ai title ar font-size 22px rakho . 320px pojonto --done
+	767px  a ai title ar font-size 22px rakho . 320px pojonto --done  <---Ok
 
 7. https://www.screencast.com/t/nnNPHXeIqnI
-	gap hoye geche --done
+	gap hoye geche --done   <--done
 
 8. https://www.screencast.com/t/BwiuSWJxt06
-	text kharap dekhasche. left ar gap komate paro --done
+	text kharap dekhasche. left ar gap komate paro --done  <--Ok
 
 9. https://www.screencast.com/t/jRZcit83kWB
-	479px a ai img ta none kore daw. --done
+	479px a ai img ta none kore daw. --done  <---Ok
 
 10. https://www.screencast.com/t/f9S7zF9NjSP
-	jokhon full width hosche tokhon ai gap 35px daw done --done
+	jokhon full width hosche tokhon ai gap 35px daw done --done  <--Ok
 
 
 
