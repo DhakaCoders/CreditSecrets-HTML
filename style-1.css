@@ -325,7 +325,7 @@ header.fl-hdr strong{
 	width: 100%;
 }
 .fl-bank-darling-video{
-	margin-bottom: 30px;
+	margin-bottom: 35px;
 }
 .fl-bank-darling-two-part{
 	padding-bottom: 60px;
@@ -333,6 +333,9 @@ header.fl-hdr strong{
 .fl-admin-intro-lft-img,
 .fl-bank-darling-lft-img{
 	width: 48.7%;
+}
+.fl-bank-darling-lft-img{
+	padding-top: 10px;
 }
 .fl-admin-intro-rgt-des,
 .fl-bank-darling-rgt-des{
@@ -411,8 +414,11 @@ header.fl-hdr strong{
 .fl-earn-money-two-part-wrp li{
 	margin-bottom: 5px;
 }
+.fl-earn-money-two-part-wrp li:nth-child(1) .fl-earn-money-img{
+	margin-top: -10px;
+}
 .fl-earn-money-two-part-wrp li:nth-child(2) .fl-earn-money-des{
-	padding-top: 13px;
+	padding-top: 10px;
 }
 .fl-earn-money-two-part-wrp li:nth-child(2n+1) .fl-earn-money-img{
 	float: right;
@@ -542,7 +548,7 @@ header.fl-hdr strong{
 	margin-bottom: 0;
 }
 .fl-secret-powerful-sec{
-	padding: 50px 0 55px;
+	padding: 50px 0 65px;
 }
 .fl-secret-powerful-head{
     margin-bottom: 30px;
@@ -886,9 +892,9 @@ span.fl-txt-line-y-bg {
 	border: 8px solid #fff;
 	border-bottom: 4px solid #fff;
 	border-radius: 2px;
-	-webkit-box-shadow: 0 5px 14px -8px rgb(180,179,179);
-	-ms-box-shadow: 0 5px 14px -8px rgb(180,179,179);
-	box-shadow: 0 5px 14px -8px rgb(180,179,179);
+	-webkit-box-shadow: 0 5px 14px -8px rgb(158, 186, 200);
+	-ms-box-shadow: 0 5px 14px -8px rgb(158, 186, 200);
+	box-shadow: 0 5px 14px -8px rgb(158, 186, 200);
 }
 
 .fl-rent-borrow-img .fl-video-wrp{
@@ -936,20 +942,32 @@ span.fl-txt-line-y-bg {
 	.fl-secret-powerful-des {
 	    padding-bottom: 30px;
 	}
+
+	.fl-angle-block-wrp{
+		padding:0!important;
+		border: 5px solid #135d9d!important;
+	}
+	.fl-angle-block-sec .fl-angle-block-wrp,
+	.fl-bank-darling-sec .fl-angle-block-wrp{
+		border: 5px solid #000!important;
+		padding:0!important;
+	}
 	.fl-angle-block-img{
 		background-image: none!important;
 		position: static;
-		margin-bottom: 25px;
+		margin-bottom: 0;
 		text-align: center;
 	}
 	.fl-angle-block-img img{
 		display: inline-block;
+		width: 100%;
 	}
 	.fl-angle-block-des-con,
 	.fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-des-con,
 	.fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-des-con {
 		max-width: initial!important;
-	    padding: 25px!important;
+	    padding: 30px 25px 40px!important;
+	    border: none;
 	}
 	.angle-block-des,
 	.fl-bank-darling-sec .fl-angle-block-wrp .angle-block-des,
@@ -965,6 +983,10 @@ span.fl-txt-line-y-bg {
 	.fl-john-ulzheimer-img > i:nth-child(1),
 	.fl-john-ulzheimer-img > i:nth-child(2) {
 	    display: none;
+	}
+
+	.fl-earn-money-two-part-wrp li:nth-child(1) .fl-earn-money-img{
+		margin-top: 0;
 	}
 } 
 
@@ -1070,6 +1092,13 @@ span.fl-txt-line-y-bg {
 	.fl-video-wrp iframe {
 		height: 400px!important;
 	}
+
+	.fl-bank-darling-lft-img{
+		padding-top: 0;
+	}
+	.fl-prisoner-two-part-wrp li:not(:last-child) {
+	    margin-bottom: 35px;
+	}
 }
 
 
@@ -1086,7 +1115,7 @@ span.fl-txt-line-y-bg {
 		display: none;
 	}
 	.legal-ethical-list {
-	    padding: 20px 50px;
+	    padding: 20px 0;
 	}
 	.fl-rent-borrow-head h2 br{
 	    display: none;
@@ -1135,7 +1164,7 @@ span.fl-txt-line-y-bg {
 	    width: 100%;
 	}
 	.legal-ethical-list {
-	    padding: 20px 20px;
+	    padding: 15px 0;
 	}
 	.fl-bank-darling-two-part {
 	    padding-bottom: 50px;
@@ -1146,6 +1175,7 @@ span.fl-txt-line-y-bg {
 	.fl-earn-money-sec {
 	    padding: 40px 0 50px;
 	}
+	.fl-bad-credit-head h2 br,
 	.fl-future-danger-head h2 br, 
 	.fl-major-breakdown-head h2 br,
 	.fl-legal-ethical-head h2 br,
@@ -1164,6 +1194,12 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-angle-block-wrp {
 	    padding: 20px 0 35px;
+	}
+	.legal-credit-grd span {
+	    font-size: 22px;
+	}
+	.legal-ethical-list-innr {
+	    padding: 20px 45px;
 	}
 }
 
@@ -1207,11 +1243,17 @@ span.fl-txt-line-y-bg {
 	.legal-ethical-list-innr {
 	    padding: 10px 30px;
 	}
+	.legal-credit-grd-wrp li:last-child .legal-credit-grd {
+	    padding: 0;
+	}
+	.legal-credit-grd-wrp li {
+	    margin-bottom: 35px;
+	}
 }
  
 @media(max-width: 575px){
 	.legal-ethical-list-innr {
-	    padding: 0;
+	    padding: 0 15px;
 	}
 	.fl-video-wrp iframe {
 	    height: 300px!important;
@@ -1219,6 +1261,10 @@ span.fl-txt-line-y-bg {
 	.legal-credit-list-innr {
 	    padding: 25px 12px 30px 12px;
 	    border: 2px solid #135d9d;
+	}
+	.upside-down-xs {
+	    margin-left: -19px;
+	    margin-right: -19px;
 	}
 }
 
@@ -1237,9 +1283,8 @@ span.fl-txt-line-y-bg {
 	.fl-video-wrp iframe {
 	    height: 300px!important;
 	}
-	.fl-video-wrp {
-	    margin-left: -15px;
-	    margin-right: -15px;
+	.legal-ethical-list-innr::after {
+	    content:none;
 	}
 }
 
