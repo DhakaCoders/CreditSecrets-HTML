@@ -984,9 +984,11 @@ span.fl-txt-line-y-bg {
 	.fl-john-ulzheimer-img > i:nth-child(2) {
 	    display: none;
 	}
-
 	.fl-earn-money-two-part-wrp li:nth-child(1) .fl-earn-money-img{
 		margin-top: 0;
+	}
+	.fl-earn-money-two-part-wrp li {
+	    margin-bottom: 25px;
 	}
 } 
 
@@ -1125,6 +1127,9 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-legal-credit-des-icon {
 	    display: none;
+	}
+	.legal-credit-grd-wrp li:last-child .legal-credit-grd {
+	    padding: 45px 0 15px;
 	}
 }
 
