@@ -1,85 +1,115 @@
 1. https://www.screencast.com/t/sf893fwgo
-	bg-size: 100% use kora jabena.  cover use koro --done
+	bg-size: 100% use kora jabena.  cover use koro --done  <--OK
  
 2. https://www.screencast.com/t/f9CQ2w95Xz
-	ai img 2 ta container thake bahire hobe --done green
+	ai img 2 ta container thake bahire hobe --done <---OK
 
 3. https://www.screencast.com/t/a2TPXkUIISa
-	i) aita vdo hobe .  --done
-	ii) border and shodow css diye manage korte hobe  --done
+	i) aita vdo hobe .  --done   <-- OK
+	ii) border and shodow css diye manage korte hobe  --done  <---OK
 
 4. https://www.screencast.com/t/fA1kqFy62cSr
-	text and img ar maje gap hobe --done
+	text and img ar maje gap hobe --done   <---Ok
 
 5. https://www.screencast.com/t/zJKApmOyN
-	img ta contaner thake right a ber kora thakbe --done
+	img ta contaner thake right a ber kora thakbe --done  <--Ok
 
-6. i) https://www.screencast.com/t/Y2c1UOKsxc
-	 'a' letter ta right a jabe.  --done
+6. i) https://www.screencast.com/t/Y2c1UOKsxc  
+	 'a' letter ta right a jabe.  --done  <---Ok
 	ii) https://www.screencast.com/t/OYxuVjcM
-		ai word ta right a jabe --done
+		ai word ta right a jabe --done   <---Ok
 
 7. https://www.screencast.com/t/PgSaADZdL
 	top and bottom wave img ta kata pore. bg-position center cente dile thik thakbe maybe 
-	aro jotogulo section a amon use korcho. sob gulo te same hobe --done
+	aro jotogulo section a amon use korcho. sob gulo te same hobe --done   <---OK
 
-8. https://www.screencast.com/t/VlayxiIhJ9S4
-	ai rokom joto gulo vdo ache ager fix ar motoi hobe --done
+8. https://www.screencast.com/t/VlayxiIhJ9S4 
+	ai rokom joto gulo vdo ache ager fix ar motoi hobe --done  <---Ok
 
 9. https://www.screencast.com/t/qvKaDXAZ
-	ai layer gulo missing --done
+	ai layer gulo missing --done  <---Ok
 
 10. https://www.screencast.com/t/R4dxuPLbB
-	ai gap ta r aktu besi hobe maybe --done
+	ai gap ta r aktu besi hobe maybe --done  <--OK
 
 11. https://www.screencast.com/t/Xx48Ca7a3NS
-	airokom joto img use kora hoiche sob gulo te repeat-x bole hobe --done
+	airokom joto img use kora hoiche sob gulo te repeat-x bole hobe --done <--Ok
 
 12. https://www.screencast.com/t/Q4s4M66e
-	gap kom mone hosche  --done
+	gap kom mone hosche  --done  <--Ok
 
 13. https://www.screencast.com/t/HErZxLq3yP
-	i) bg white hobe  --done
-	ii) heading ar bottom bg ta jpg hobe. jehetu wihte bg --done
+	i) bg white hobe  --done  <--Ok
+	ii) heading ar bottom bg ta jpg hobe. jehetu wihte bg --done  <--Ok
 
 14. https://www.screencast.com/t/laTlQBad
-	top and bottom a img atotuku ber kora thakbe. besi besi mone hosche --done
+	top and bottom a img atotuku ber kora thakbe. besi besi mone hosche --done  <--done
 
 15. https://www.screencast.com/t/vXMtQOPk4TuL
 	https://www.screencast.com/t/1Bz9mpq0Zr
-	ai layer ta missing --done
+	ai layer ta missing --done    <---Ok
 
 16. https://www.screencast.com/t/VeYXvOvPiIJw
-	ai gap 2 ta kom besi hoiche --done 
+	ai gap 2 ta kom besi hoiche --done   <--Ok
 	left gap ta img tar (-) margin kore manage korte paro
 
 17. https://www.screencast.com/t/Q3JpwWGwuHIu
-	ai gap ta aktu kom hobe maybe  --done
+	ai gap ta aktu kom hobe maybe  --done  <--Ok
 
 18. https://www.screencast.com/t/9cPFD5d9tLa4
-	ak line a hobe  --done
+	ak line a hobe  --done  <--done  <--Ok
 
 19. https://www.screencast.com/t/sTsjMphq
-	ai layer 2 ta missing --done
+	ai layer 2 ta missing --done  <--Ok
 
 20. https://www.screencast.com/t/5B4xbKiZwP
-	italic hobe  --done
+	italic hobe  --done  <--Ok
 
 21. https://www.screencast.com/t/wfLByKJlGz
-	i) white bg hobe  --done 
-	ii) then heading ar bottom img ta jpg hobe  --done
+	i) white bg hobe  --done   <--Ok
+	ii) then heading ar bottom img ta jpg hobe  --done  <---Ok
 
 22. https://www.screencast.com/t/Ts9AjPoqC
-	line brk milnei --done
+	line brk milnei --done  <--Ok
 
 23. https://www.screencast.com/t/S7VRugmy
-	jpg hobe jehetu wihte bg. r onno kotha white bg ar thakle jpg hobe --done
+	jpg hobe jehetu wihte bg. r onno kothao white bg ar thakle jpg hobe --done  <---Ok
 
 24. https://www.screencast.com/t/bXZZR0YZJ68W
-	border and img missing red
+	border and img missing red  <--Ok
 
 25. https://www.screencast.com/t/9inHy46WQS
-	ai word ta right a jabe --done
+	ai word ta right a jabe --done  <--Ok
 
-26. https://www.screencast.com/t/wqHCKWiv
-	ai img ta and border missing --done
+26. https://www.screencast.com/t/wqHCKWiv  
+	ai img ta and border missing --done  <--Ok
+
+
+New
+-------------
+9. https://www.screencast.com/t/qvKaDXAZ
+	ai layer gulo missing .baki jotohulo amon ache sob gulote same hobe.
+
+10. https://www.screencast.com/t/R4dxuPLbB
+	ai gap ta r aktu besi hobe maybe 
+
+	https://www.screencast.com/t/i83qQoQUu
+	ai gap 45 ar moto hobe
+
+16. https://www.screencast.com/t/VeYXvOvPiIJw
+	ai gap 2 ta kom besi hoiche 
+	left gap ta, img tar (-) margin kore manage korte paro
+
+17. https://www.screencast.com/t/Q3JpwWGwuHIu
+	ai gap ta aktu kom hobe maybe  -done
+
+	beso kome hoye geche . ata rakkho 
+	https://www.screencast.com/t/kDqcwicO
+
+24. https://www.screencast.com/t/bXZZR0YZJ68W
+	 img missing red 
+
+
+
+Responsive
+----------------
