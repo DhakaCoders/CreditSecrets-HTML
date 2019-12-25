@@ -88,67 +88,67 @@ Desktop
 
 New
 ----------------
-1. https://www.screencast.com/t/SyHSzxS1yuH
-   https://www.screencast.com/t/UhzYE1cg9XQX
+1. https://www.screencast.com/t/SyHSzxS1yuH  --Done
+   https://www.screencast.com/t/UhzYE1cg9XQX  --Done
 
 	jehetu white bg ache .So ai img ta jpg use kora jay
 
-2. https://www.screencast.com/t/ND6uCmvgFTBw
+2. https://www.screencast.com/t/ND6uCmvgFTBw  --done
 	niche ai box ta css diye manage korcho dekhlam . so atao css diye korte pari amra. akta img kome jabe
 
-3. https://www.screencast.com/t/iftf8KP9UfE
+3. https://www.screencast.com/t/iftf8KP9UfE  --done
 	white bg ar upore sob img jpg hobe. ai img tar 2 ta version thakbe same name a. akta png r akta jpg. jekhane jpg lagbe jpg and jekhane png lagbe png use korbo amra.
 
-4. https://www.screencast.com/t/kDAJiE94h
+4. https://www.screencast.com/t/kDAJiE94h  --done
 	i) gap thakbena, niche laga thakbe. 
 	B.N. - r ai img ta ami akhon png diye diche. left side a img tar shadow ache. jeta jpg img diye hobena.
 
-5. https://www.screencast.com/t/bSF6DEMAS
+5. https://www.screencast.com/t/bSF6DEMAS   --done
 	img and title ar maje r aktu gap hobe 
 
 
-6. https://www.screencast.com/t/KhvJSWHF5s
+6. https://www.screencast.com/t/KhvJSWHF5s  --done
 	text kata porche. des take position relative bole z-index dite paro
 
 
 Responsive
 ------------------
-1. https://www.screencast.com/t/Mj5jKw9EaK
+1. https://www.screencast.com/t/Mj5jKw9EaK  -done
 	575px a ai secton heading ar gap komate hobe. 10px daw. onno section gulo te kom besi dite hote pare. but 575px sob sec heading ar gap same rakhi
 
-2. https://www.screencast.com/t/XqCnThd4Y6
+2. https://www.screencast.com/t/XqCnThd4Y6  --done
 	575px ai 3 ta property daw
 
-3. https://www.screencast.com/t/yfDObCb4
+3. https://www.screencast.com/t/yfDObCb4  ---done
 	atar shap ta desktop ar moto thakena. desktop a css diye manage korle ata r fix korte hobena maybe
 
-4.  https://www.screencast.com/t/fxFioBAW
+4.  https://www.screencast.com/t/fxFioBAW  --done
 	767px atar margin-bottom: 30px daw
 
-5. https://www.screencast.com/t/GiRex8rexRF
+5. https://www.screencast.com/t/GiRex8rexRF  --done
 	jokhon full width hosche. 
 	tokhon sob center a daw. 
 	img jeno nicher media te left and right a lege na jay
 
-6. https://www.screencast.com/t/MgIZdmWjMZ3N
+6. https://www.screencast.com/t/MgIZdmWjMZ3N  --done
 	ai img ta 767px ar pore none kore daw. 
 	1199px a ai property gulo diye rakho 
 
 
-7. https://www.screencast.com/t/lhEI436UsAPy
+7. https://www.screencast.com/t/lhEI436UsAPy  --done
 	767px a font-size 20px korte hobe. bcoz common 20px deoa ache. 
 	tumi individual deoate ata komeni. aro kothao amon thakle fix koro
 
-8. https://www.screencast.com/t/OE4PaqUxk
+8. https://www.screencast.com/t/OE4PaqUxk --done
 	1199px a upore niche alignment mileni. kom besi hoiche. nicher gap ta upore daw
 
 
-10. https://www.screencast.com/t/J1vpV6QGWVUW
+10. https://www.screencast.com/t/J1vpV6QGWVUW --done
 	https://www.screencast.com/t/XLto5Jw2
 	1199px a left and right a 15px kore gap daw
 
-11. https://www.screencast.com/t/NcHXKp2EL
+11. https://www.screencast.com/t/NcHXKp2EL  --done 
 	575px aita choto koro aktu
 
-12. https://www.screencast.com/t/77alF9X55W
+12. https://www.screencast.com/t/77alF9X55W  --done
 	575px a ai border 3px rakho . ai rokom aro box thakle setaro 
