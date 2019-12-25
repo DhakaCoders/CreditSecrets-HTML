@@ -85,7 +85,7 @@
 	ai img ta and border missing --done  <--Ok
 
 
-New
+Ager fix thake
 -------------
 9. https://www.screencast.com/t/qvKaDXAZ
 	ai layer gulo missing .baki jotohulo amon ache sob gulote same hobe.
@@ -109,7 +109,60 @@ New
 24. https://www.screencast.com/t/bXZZR0YZJ68W
 	 img missing red 
 
+New
+---------
+1. https://www.screencast.com/t/5FrAXiEgSUqu
+	abar name layer missing
 
+2. https://www.screencast.com/t/y3p71RcsMlN
+	vdo ar shadow ta aktu blue type ar hobe
 
+3. https://www.screencast.com/t/Qr7Kq5HMSgZ
+	gap besi hobe
+
+4. https://www.screencast.com/t/xwgwdvvGc
+	img ta maring top kore upore uthbe. responsive abar '0' kore dite hobe.
+ 
 Responsive
 ----------------
+
+1. https://www.screencast.com/t/eqK8WuY37M3V
+	ai media te ai code gulo lagbena
+
+2. https://www.screencast.com/t/3bJl0fPnwf
+	img ta jokhon full width hosche , tokhon top a padding-top 30 daw
+
+3. https://www.screencast.com/t/Cahqw0Z0B9
+	br none korte hobe. j media thake dorkar
+
+4. https://www.screencast.com/t/0DFfjjVu6rF
+	i) ai img ta jokhon full width hosche tokhon border ar vitorei thakbe, bahire hobena. r img ta angle ai thakbe.
+	ii) sob center hobe full width a.
+	iii) order--- img then title then des. 
+
+	amon aro j section gulo ache seguloteo same hobe
+
+	https://www.screencast.com/t/wYEZt0gZr
+	https://www.screencast.com/t/H7K0p95rwR
+
+5. https://www.screencast.com/t/wiyr0Jhg
+	575px a img 2 ta, 2 side a -19px kore daw 
+
+6. https://www.screencast.com/t/LOkl3wZ20l
+	767px  a ai title ar font-size 22px rakho . 320px pojonto
+
+7. https://www.screencast.com/t/nnNPHXeIqnI
+	gap hoye geche
+
+8. https://www.screencast.com/t/BwiuSWJxt06
+	text kharap dekhasche. left ar gap komate paro
+
+9. https://www.screencast.com/t/jRZcit83kWB
+	479px a ai img ta none kore daw.
+
+10. https://www.screencast.com/t/f9S7zF9NjSP
+	jokhon full width hosche tokhon ai gap 35px daw
+
+
+
+
