@@ -160,6 +160,9 @@ Responsive
 9. https://www.screencast.com/t/jRZcit83kWB
 	479px a ai img ta none kore daw.
 
+10. https://www.screencast.com/t/f9S7zF9NjSP
+	jokhon full width hosche tokhon ai gap 35px daw
+
 
 
 
