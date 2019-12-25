@@ -2,7 +2,7 @@
 	bg-size: 100% use kora jabena.  cover use koro --done
  
 2. https://www.screencast.com/t/f9CQ2w95Xz
-	ai img 2 ta container thake bahire hobe --done green
+	ai img 2 ta container thake bahire hobe --done
 
 3. https://www.screencast.com/t/a2TPXkUIISa
 	i) aita vdo hobe .  --done
