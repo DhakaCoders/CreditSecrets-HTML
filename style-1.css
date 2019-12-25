@@ -414,8 +414,8 @@ header.fl-hdr strong{
 .fl-earn-money-two-part-wrp li{
 	margin-bottom: 5px;
 }
-.fl-earn-money-two-part-wrp li:nth-child(1) .fl-earn-money-img{
-	margin-top: -10px;
+.fl-earn-money-two-part-wrp li:nth-child(2) .fl-earn-money-img{
+	margin-top: -14px;
 }
 .fl-earn-money-two-part-wrp li:nth-child(2) .fl-earn-money-des{
 	padding-top: 10px;
@@ -777,10 +777,6 @@ header.fl-hdr strong{
 .fl-legal-ethical-des p:last-child{
 	margin-bottom: 0;
 }
-
-
-
-
 .fl-angle-block-wrp{
     position: relative;
     padding: 35px 0 35px;
@@ -822,8 +818,6 @@ header.fl-hdr strong{
 .angle-block-des p:last-child{
 	margin-bottom: 0;
 }
-
-
 .fl-bank-darling-sec .fl-angle-block-wrp {
     padding: 21px 0 27px !important;
 }
@@ -853,13 +847,6 @@ header.fl-hdr strong{
 .fl-angle-block-sec .fl-angle-block-wrp .angle-block-des {
     padding-right: 196px;
 }
-
-
-
-
-
-
-
 .fl-angle-block-sec .fl-angle-block-wrp .angle-block-head h2{
 	font-family: "PTSerif-BoldItalic";
 }
@@ -881,8 +868,6 @@ span.fl-txt-line-y-bg {
     color: #000;
     letter-spacing: -0.02px;
 }
-
-
 .fl-video-wrp{
 	max-width: 890px;
 	margin: 0 auto;
@@ -896,7 +881,6 @@ span.fl-txt-line-y-bg {
 	-ms-box-shadow: 0 5px 14px -8px rgb(158, 186, 200);
 	box-shadow: 0 5px 14px -8px rgb(158, 186, 200);
 }
-
 .fl-rent-borrow-img .fl-video-wrp{
 	margin-bottom: 32px;
 }
@@ -942,7 +926,6 @@ span.fl-txt-line-y-bg {
 	.fl-secret-powerful-des {
 	    padding-bottom: 30px;
 	}
-
 	.fl-angle-block-wrp{
 		padding:0!important;
 		border: 5px solid #135d9d!important;
@@ -984,7 +967,7 @@ span.fl-txt-line-y-bg {
 	.fl-john-ulzheimer-img > i:nth-child(2) {
 	    display: none;
 	}
-	.fl-earn-money-two-part-wrp li:nth-child(1) .fl-earn-money-img{
+	.fl-earn-money-two-part-wrp li:nth-child(2) .fl-earn-money-img{
 		margin-top: 0;
 	}
 	.fl-earn-money-two-part-wrp li {
