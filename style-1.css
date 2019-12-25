@@ -928,6 +928,7 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-angle-block-wrp{
 		padding:0!important;
+		background: #fff;
 		border: 5px solid #135d9d!important;
 	}
 	.fl-angle-block-sec .fl-angle-block-wrp,
@@ -1253,6 +1254,13 @@ span.fl-txt-line-y-bg {
 	.upside-down-xs {
 	    margin-left: -19px;
 	    margin-right: -19px;
+	}
+	.fl-angle-block-wrp{
+		border:3px solid #135d9d!important;
+	}
+	.fl-angle-block-sec .fl-angle-block-wrp,
+	.fl-bank-darling-sec .fl-angle-block-wrp{
+		border: 3px solid #000!important;
 	}
 }
 
