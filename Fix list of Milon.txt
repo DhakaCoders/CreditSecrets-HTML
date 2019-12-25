@@ -1,86 +1,154 @@
 Desktop
 -----------------
-1. https://www.screencast.com/t/j2DCQfS2
+1. https://www.screencast.com/t/j2DCQfS2  -----Done
 	boro window te img ta haray jay. top and bottom ar. 
 	bg-size: center center dile maybe thik thakbe
 
-2. https://www.screencast.com/t/t3TvZHEyJ
+2. https://www.screencast.com/t/t3TvZHEyJ  ---Done
 	ai layer ta missing 
 
-3. https://www.screencast.com/t/d5gyXldpI
+3. https://www.screencast.com/t/d5gyXldpI ---done
 	bottom img top ar dike ar aktu crop korle milbe maybe
 
-4. https://www.screencast.com/t/MD6Tu20EGmAr
+4. https://www.screencast.com/t/MD6Tu20EGmAr --done
 	ai gap ta ar aktu besi hobe
 
-5. https://www.screencast.com/t/okH533apcaO
+5. https://www.screencast.com/t/okH533apcaO  -done
 	span ar display block jehetu ache . so br tag lagbena
 
-6. https://www.screencast.com/t/cvaALBc5IrQ
+6. https://www.screencast.com/t/cvaALBc5IrQ --done
 	img ta aro left a asbe . width barao
 
-7. https://www.screencast.com/t/WUFaVcC4
+7. https://www.screencast.com/t/WUFaVcC4 --done
 	white bg missing
 
-8. https://www.screencast.com/t/rwOvOJKbUP
+8. https://www.screencast.com/t/rwOvOJKbUP --done
 	gap 5px besi hobe
 
-9. https://www.screencast.com/t/pJpRVW7OjAD7
+9. https://www.screencast.com/t/pJpRVW7OjAD7 --- done
 	ata right side a 5px ber kora thakbe
 
-10. https://www.screencast.com/t/kffkIFpn9K
+10. https://www.screencast.com/t/kffkIFpn9K --done
 	i) ai white bg ta missing 
 	ii) https://www.screencast.com/t/FgQ3g02d
 		then ai box under a sob img gulo png thake jpg korte hobe
 
-11. https://www.screencast.com/t/PGA06dEpLJs
+11. https://www.screencast.com/t/PGA06dEpLJs  ---done
 	font-size mileni
 
-12. https://www.screencast.com/t/Kgv4IHZ4nJii
+12. https://www.screencast.com/t/Kgv4IHZ4nJii  --done
 	i) ata solid bg css diye manage korar try koro
 	ii) left top and left bottom a radius hobe
 
-13. https://www.screencast.com/t/X74FTHBGI
+13. https://www.screencast.com/t/X74FTHBGI ---done
 	ai gap ta aktu besi mone hosche
 
-14. https://www.screencast.com/t/gcx1C8rxFx
+14. https://www.screencast.com/t/gcx1C8rxFx  ---done
 	gap hobena. akta p ar moddhe dhukay br tag use korte paro
 
-15. https://www.screencast.com/t/NRVWuJZosbTp
+15. https://www.screencast.com/t/NRVWuJZosbTp ---done
 	top and bottom wave ar fix ager motoi
 
-16. https://www.screencast.com/t/fmksCQ9kP5S3
+16. https://www.screencast.com/t/fmksCQ9kP5S3  --done
 	top a r aktu gap besi hobe maybe
 
-17. https://www.screencast.com/t/0oGIx9ImXn
+17. https://www.screencast.com/t/0oGIx9ImXn  --done
 	ai layer ta missing
 
-20. https://www.screencast.com/t/q86hoLuw
+20. https://www.screencast.com/t/q86hoLuw  -done
 	i) bg white missing
 	ii) then right img ta jpg use korte hobe
 	iii) then heading ar niche dots img tao jpg use korte hobe
 
-21. https://www.screencast.com/t/nKE5drooms2
+21. https://www.screencast.com/t/nKE5drooms2  --done
 	gap besi mone hosche
 
-22. https://www.screencast.com/t/uIbHpsmOPjR
-	https://www.screencast.com/t/N2NkTtlat
+22. https://www.screencast.com/t/uIbHpsmOPjR  --done
+	https://www.screencast.com/t/N2NkTtlat  ---done
 	ai img gulo jpg use korte pari. jehetu white bg ache section tate
 
-23. https://www.screencast.com/t/kbiENyHtbSMX
+23. https://www.screencast.com/t/kbiENyHtbSMX  --done
 
 	bottom shadow ta besi mone hosche.
 	shadow niche halka aktu buja jabe. psd dekhe valo kore milate hobe
 
-24. https://www.screencast.com/t/okS8bTUQl
+24. https://www.screencast.com/t/okS8bTUQl  --done
 	gap besi mone hosche. ai section gulor heading gap kom besi ache. tai parent sec dhore gap ta manage korte paro
 
-25. https://www.screencast.com/t/5AXYTWWV
+25. https://www.screencast.com/t/5AXYTWWV  --done
 	i) top and bottom wave ar fix ager motoi
 	ii) 2 ta layer missing 
 
-26. https://www.screencast.com/t/SpVwRbruTz2
+26. https://www.screencast.com/t/SpVwRbruTz2  --done
 	ata vdo hobe. pore add kora jabe client ar kache sune
 
-27. https://www.screencast.com/t/vEelGsQd
+27. https://www.screencast.com/t/vEelGsQd  --done
 	data-src nai and lazy class. aro bes kyjay nai. valo kore check kore dekhio
+
+
+New
+----------------
+1. https://www.screencast.com/t/SyHSzxS1yuH
+   https://www.screencast.com/t/UhzYE1cg9XQX
+
+	jehetu white bg ache .So ai img ta jpg use kora jay
+
+2. https://www.screencast.com/t/ND6uCmvgFTBw
+	niche ai box ta css diye manage korcho dekhlam . so atao css diye korte pari amra. akta img kome jabe
+
+3. https://www.screencast.com/t/iftf8KP9UfE
+	white bg ar upore sob img jpg hobe. ai img tar 2 ta version thakbe same name a. akta png r akta jpg. jekhane jpg lagbe jpg and jekhane png lagbe png use korbo amra.
+
+4. https://www.screencast.com/t/kDAJiE94h
+	i) gap thakbena, niche laga thakbe. 
+	B.N. - r ai img ta ami akhon png diye diche. left side a img tar shadow ache. jeta jpg img diye hobena.
+
+5. https://www.screencast.com/t/bSF6DEMAS
+	img and title ar maje r aktu gap hobe 
+
+
+6. https://www.screencast.com/t/KhvJSWHF5s
+	text kata porche. des take position relative bole z-index dite paro
+
+
+Responsive
+------------------
+1. https://www.screencast.com/t/Mj5jKw9EaK
+	575px a ai secton heading ar gap komate hobe. 10px daw. onno section gulo te kom besi dite hote pare. but 575px sob sec heading ar gap same rakhi
+
+2. https://www.screencast.com/t/XqCnThd4Y6
+	575px ai 3 ta property daw
+
+3. https://www.screencast.com/t/yfDObCb4
+	atar shap ta desktop ar moto thakena. desktop a css diye manage korle ata r fix korte hobena maybe
+
+4.  https://www.screencast.com/t/fxFioBAW
+	767px atar margin-bottom: 30px daw
+
+5. https://www.screencast.com/t/GiRex8rexRF
+	jokhon full width hosche. 
+	tokhon sob center a daw. 
+	img jeno nicher media te left and right a lege na jay
+
+6. https://www.screencast.com/t/MgIZdmWjMZ3N
+	ai img ta 767px ar pore none kore daw. 
+	1199px a ai property gulo diye rakho 
+
+
+7. https://www.screencast.com/t/lhEI436UsAPy
+	767px a font-size 20px korte hobe. bcoz common 20px deoa ache. 
+	tumi individual deoate ata komeni. aro kothao amon thakle fix koro
+
+8. https://www.screencast.com/t/OE4PaqUxk
+	1199px a upore niche alignment mileni. kom besi hoiche. nicher gap ta upore daw
+
+
+10. https://www.screencast.com/t/J1vpV6QGWVUW
+	https://www.screencast.com/t/XLto5Jw2
+	1199px a left and right a 15px kore gap daw
+
+11. https://www.screencast.com/t/NcHXKp2EL
+	575px aita choto koro aktu
+
+12. https://www.screencast.com/t/77alF9X55W
+	575px a ai border 3px rakho . ai rokom aro box thakle setaro 
