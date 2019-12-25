@@ -140,15 +140,35 @@ span.health-caircle-rgt {
 	max-width: 945px;
 	width: 100%;
 	margin: 0 auto;
-	background-repeat: no-repeat !important;
-	background-size: cover !important;
-	background-position: center center !important;
 	position: relative;
 	text-align: center;
 	padding: 25px 40px 28px;
 	margin-top: 10px;
 	margin-bottom: 40px;
 	position: relative;
+    border-radius: 8px;
+}
+.fl-exposed-wrp:after {
+    content: "";
+    position: absolute;
+    right: -6px;
+    top: 6px;
+    bottom: 0;
+    background: #e8e8e8;
+    width: 6px;
+    height: 100%;
+    border-radius: 0px 8px 8px 0px;
+}
+.fl-exposed-wrp:before {
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 6px;
+    right: 0;
+    background: #e8e8e8;
+    width: 100%;
+    height: 6px;
+    border-radius: 0 0 8px 8px;
 }
 .fl-exposed-wrp h5{
 	margin: 0;
@@ -318,6 +338,10 @@ span.fl-exposed-rgt-img {
 	margin-bottom: 30px;
     font-size: 25px;
 }
+.fl-every-single-power-wrp{
+    position: relative;
+    z-index: 2;
+}
 span.fl-every-single-power-icon{
 	position: absolute;
 	right: 0;
@@ -328,15 +352,19 @@ span.fl-every-single-power-icon{
 	background-repeat: no-repeat !important;
 	background-position: center center !important;
 	background-size: cover !important;
+    z-index: -1;
 }
+
 .fl-every-single-floor-dsc{
-	padding: 0 10px;
+	padding: 0;
 }
 .fl-every-single-floor-dsc p{
 	font-size: 24px;
 }
 .fl-every-single-btm-dsc{
 	padding-right: 10px;
+    position: relative;
+    z-index: 2;
 }
 .fl-every-single-btm-img-1{
 	padding-top: 45px;
@@ -541,6 +569,9 @@ span.fl-every-single-power-icon{
 .fl-short-time-dsc h5{
     margin-bottom: 30px;
 }
+.fl-short-time-dsc h5 span img{
+    padding-right: 6px;
+}
 .fl-short-time-dsc h5 span.fl-txt-line-bg{
     padding: 12px 40px 12px 18px;
     margin-left: 10px;
@@ -548,7 +579,7 @@ span.fl-every-single-power-icon{
 .fl-every-single-btm-img-3{
     position: absolute;
     right: -230px;
-    bottom: -20px;
+    bottom: -30px;
     z-index: -1;
     width: 852px;
     height: 573px;
@@ -559,6 +590,8 @@ span.fl-every-single-power-icon{
 .fl-every-single-btm-img-3 img{
     display: none;
 }
+
+
 
 @media(max-width: 1599px){
     span.health-caircle-lft {
@@ -608,7 +641,6 @@ span.fl-every-single-power-icon{
         width: 100%;
         max-width: 380px;
     }
-    span.fl-every-single-power-icon,
     .fl-anyone-two-part-cir,
     span.fl-exposed-rgt-img,
     span.health-caircle-rgt,
@@ -623,7 +655,8 @@ span.fl-every-single-power-icon{
     .fl-anyone-two-part-img {
         position: static;
         width: 100%;
-        text-align: right;
+        text-align: center;
+        padding: 15px 15px 0 15px;
     }
     .fl-anyone-two-part-dsc {
         max-width: 100%;
@@ -634,6 +667,7 @@ span.fl-every-single-power-icon{
         padding-left: 20px;
         padding-top: 25px;
         background:transparent;
+        text-align: center;
     }
     .fl-every-single-tp-img {
         position: static;
@@ -674,6 +708,8 @@ span.fl-every-single-power-icon{
         width: 100%;
         height: auto;
         background: transparent !important;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .fl-every-single-btm-img-2 img{
         display: inline-block;
@@ -732,6 +768,8 @@ span.fl-every-single-power-icon{
         height: auto;
         background:transparent !important;
         margin-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .fl-every-single-btm-img-3 img{
         display: inline-block;
@@ -754,6 +792,16 @@ span.fl-every-single-power-icon{
     }
     .fl-spark-sec-wrp .pull-right{
         float: none !important;
+    }
+    .fl-needs-trick-sec-wrp .pull-right{
+        float: none !important;
+    }
+    span.fl-every-single-power-icon {
+        top: -148px;
+        max-width: 237px;
+        width: 100%;
+        height: 237px;
+        background-size: 100% 100% !important;
     }
 
     
@@ -807,6 +855,19 @@ span.fl-every-single-power-icon{
     .fl-short-time-head {
         padding: 0 10px;
     }
+    .fl-exposed-wrp{
+        margin-bottom: 30px;
+    }
+    span.fl-every-single-power-icon{
+        display: none;
+    }
+    .fl-every-single-floor-dsc p {
+        font-size: 20px;
+    }
+    .fl-short-time-sec-wrp {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
 
 }
 
@@ -830,10 +891,56 @@ span.fl-every-single-power-icon{
     }
     .fl-every-single-head {
         padding: 25px 10px 10px;
+        margin-bottom: 30px;
     }
+    .fl-anyone-use-head h2 {
+        padding-bottom: 10px;
+    }
+    .fl-loophole-head h2 {
+        padding-bottom: 20px;
+    }
+    .fl-needs-trick-sec-wrp .fl-anyone-use-head h2 {
+        padding-bottom: 5px;
+    }
+    .fl-anything-about-head h2 {
+        margin-bottom: 20px;
+    }
+    .fl-happened-head h2 {
+        padding-bottom: 10px;
+    }
+    .fl-we-believe-head {
+        padding: 20px 10px;
+    }
+    .fl-spark-sec-wrp .fl-anyone-use-head h2 {
+        padding-bottom: 10px;
+    }
+    .fl-spark-sec-wrp .fl-anyone-use-head {
+        padding-bottom: 20px;
+    }
+    .fl-short-time-head h2 {
+        margin-bottom: 20px;
+    }
+    .health-risks-dsc h5 {
+        margin-top: 15px;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .fl-short-time-dsc h5 {
+        font-size: 18px;
+    }
+    .fl-short-time-dsc h5 span img{
+        max-width: 20px;
+        width: 100%;
+    }
+    .fl-happened-bdr {
+        border: 3px solid#000;
+    }
+    .fl-anyone-two-part-wrp {
+        border: 3px solid #000;
+    }
+
+
 }
-
-
 @media(max-width: 479px){
     .fl-exposed-wrp {
         padding: 25px 10px 28px;
