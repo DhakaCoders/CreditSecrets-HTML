@@ -239,6 +239,9 @@ header.fl-hdr strong{
 .fl-rent-borrow-head h2 span{
 	color:#135d9d;
 }
+.fl-rent-borrow-sec .fl-angle-block-wrp{
+	margin-top: 15px;
+}
 .fl-rent-borrow-block:not(:last-child){
 	padding-bottom: 30px;
 }
@@ -605,28 +608,14 @@ header.fl-hdr strong{
     border-radius: 5px;
 	z-index: 4
 }
-.fl-legal-credit-des-wrp > i {
+.fl-legal-credit-des-icon {
     position: absolute;
 	display: inline-block;
-	max-width: 310px;
+	width: 310px;
+	height: 166px;
 	top: 450px;
 	right: -65px;
 	z-index: 1;
-}
-.fl-legal-credit-des-wrp::after {
-    content: "";
-    position: absolute;
-    top: 5%;
-    right: -73px;
-
-    top: 450px;
-	right: -65px;
-    width: 310px;
-    height: 166px;
-    background-image: url(assets/images/legal-credit-des-icon.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    z-index: -1;
 }
 .legal-credit-list li {
     position: relative;
@@ -1104,6 +1093,9 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-legal-credit-head {
 	    padding: 30px 15px 25px;
+	}
+	.fl-legal-credit-des-icon {
+	    display: none;
 	}
 }
 
