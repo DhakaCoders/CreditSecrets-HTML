@@ -23,7 +23,7 @@ header.fl-hdr strong{
     left: 0;
     right: 0;
     background-repeat: no-repeat!important;
-    background-size: 100% 100%!important;
+    background-size: cover!important;
     background-position: center bottom!important;
     z-index: 2
 }
@@ -71,6 +71,10 @@ header.fl-hdr strong{
     padding-right:48px;
     line-height: 55px;
 }
+.fl-jay-hannon-btm-des h5 span.fl-txt-line-bg img,
+.fl-john-ulzheimer-sec h5 span.fl-txt-line-bg img {
+    padding-right:10px;
+}
 .fl-john-ulzheimer-sec h5 img{
     padding-right: 15px;
 }
@@ -84,22 +88,21 @@ header.fl-hdr strong{
 	position: relative;
 	padding-top: 12px;
 }
-.fl-john-ulzheimer-img > i:nth-child(1){
-	display: inline-block;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 1;
-	max-width: 219px;
+.fl-john-ulzheimer-img > i:nth-child(1) {
+    display: inline-block;
+    position: absolute;
+    top: 16px;
+    left: -44px;
+    z-index: 1;
+    max-width: 219px;
 }
-.fl-john-ulzheimer-img > i:nth-child(2){
-	display: inline-block;
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	z-index: 1;
-	max-width: 219px;
-	
+.fl-john-ulzheimer-img > i:nth-child(2) {
+    display: inline-block;
+    position: absolute;
+    bottom: 7px;
+    right: -49px;
+    z-index: 1;
+    max-width: 219px;
 }
 .fl-john-ulzheimer-img > i > img{
 	width: 100%;
@@ -178,8 +181,11 @@ header.fl-hdr strong{
 	float: right
 }
 .fl-prisoner-two-part-wrp li:nth-child(2n+1) .fl-prisoner-des{
-	padding-right: 30px;
+	padding-right: 24px;
 	padding-left: 0;
+}
+.fl-prisoner-two-part-wrp li:nth-child(1) .fl-prisoner-img{
+	margin-right: -12px;
 }
 .fl-prisoner-two-part-wrp li{
 	margin-bottom: 10px;
@@ -203,12 +209,12 @@ header.fl-hdr strong{
     position: absolute;
     left: 0;
     right: 0;
-    top: -16px;
+    top: -15px;
     z-index: 1;
-    height: 27px;
+    height: 20px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center top !important;
+    background-repeat: repeat-x !important;
+    background-position: center center !important;
 }
 .bad-credit-btm-wave {
     position: absolute;
@@ -216,10 +222,10 @@ header.fl-hdr strong{
     right: 0;
     bottom: -15px;
     z-index: 1;
-    height: 25px;
+    height: 20px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center bottom !important;
+    background-repeat: repeat-x !important;
+    background-position: center center !important;
 }
 .fl-rent-borrow-sec{
 	padding: 50px 0 45px;
@@ -256,6 +262,9 @@ header.fl-hdr strong{
     background-position: center bottom!important;
 	position: relative
 }
+.fl-legal-credit-head{
+	padding: 30px 32px 25px;
+}
 .legal-credit-btm-wave,
 .upside-down-btm-wave,
 .good-news-btm-wave {
@@ -266,7 +275,7 @@ header.fl-hdr strong{
     z-index: 1;
     height: 25px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
+    background-repeat: repeat-x !important;
     background-position: center bottom !important;
 }
 .fl-good-news-img{
@@ -313,7 +322,7 @@ header.fl-hdr strong{
 	width: 100%;
 }
 .fl-bank-darling-video{
-	margin-bottom:25px;
+	margin-bottom: 30px;
 }
 .fl-bank-darling-two-part{
 	padding-bottom: 60px;
@@ -359,23 +368,23 @@ header.fl-hdr strong{
     position: absolute;
     left: 0;
     right: 0;
-    top: -7px;
+    top: -17px;
     z-index: 1;
-    height: 27px;
+    height: 20px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center top !important;
+    background-repeat: repeat-x !important;
+    background-position: center center !important;
 }
 .admin-intro-btm-wave {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -4px;
+    bottom: -14px;
     z-index: 1;
-    height: 25px;
+    height: 23px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center bottom !important;
+    background-repeat: repeat-x !important;
+    background-position: center center !important;
 }
 .fl-earn-money-sec{
 	padding: 40px 0;
@@ -398,6 +407,9 @@ header.fl-hdr strong{
 }
 .fl-earn-money-two-part-wrp li{
 	margin-bottom: 5px;
+}
+.fl-earn-money-two-part-wrp li:nth-child(2) .fl-earn-money-des{
+	padding-top: 13px;
 }
 .fl-earn-money-two-part-wrp li:nth-child(2n+1) .fl-earn-money-img{
 	float: right;
@@ -498,30 +510,36 @@ header.fl-hdr strong{
     position: absolute;
     left: 0;
     right: 0;
-    top: -15px;
+    top: -12px;
     z-index: 1;
     height: 25px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center top !important;
+    background-repeat: repeat-x !important;
+    background-position: center center !important;
+}
+.major-breakdown-top-wave {
+    top: -19px;
 }
 .future-danger-btm-wave,
 .major-breakdown-btm-wave {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -15px;
+    bottom: -12px;
     z-index: 1;
     height: 25px;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center bottom !important;
+    background-repeat: repeat-x !important;
+    background-position: center center !important;
+}
+.major-breakdown-btm-wave {
+    bottom: -20px;
 }
 .fl-major-breakdown-des p:last-child{
 	margin-bottom: 0;
 }
 .fl-secret-powerful-sec{
-	padding: 50px 0 45px;
+	padding: 50px 0 55px;
 }
 .fl-secret-powerful-head{
     margin-bottom: 30px;
@@ -536,11 +554,13 @@ header.fl-hdr strong{
 
 .fl-secret-powerful-lft-img{
 	width: 48.7%;
+	padding-top: 30px;
 }
 .fl-secret-powerful-rgt-des{
 	width: 51.3%;
 	padding-left: 31px;
 }
+.fl-secret-powerful-rgt-des p:last-child,
 .fl-secret-powerful-des p:last-child,
 .fl-bank-darling-rgt-des p:last-child{
 	margin-bottom: 0;
@@ -560,13 +580,30 @@ header.fl-hdr strong{
 	overflow: hidden;
 }
 .legal-credit-list{
-	padding:25px 30px 30px 25px;
-	border: 4px solid #135d9d;
 	background: #fff;
 	max-width: 890px;
 	margin: 0 auto 35px;
 	position: relative;
-	z-index: 2
+	z-index: 2;
+}
+.legal-credit-list::after {
+    content: "";
+    position: absolute;
+    background: #e4e4e4;
+    top: 6px;
+    left: 6px;
+    right: -6px;
+    bottom: -6px;
+    z-index:3;
+    border-radius: 5px;
+}
+.legal-credit-list-innr{
+	padding:25px 30px 30px 25px;
+	border: 4px solid #135d9d;
+	background: #fff;
+	position: relative;
+    border-radius: 5px;
+	z-index: 4
 }
 .fl-legal-credit-des-wrp > i {
     position: absolute;
@@ -576,8 +613,20 @@ header.fl-hdr strong{
 	right: -65px;
 	z-index: 1;
 }
-.fl-legal-credit-des-wrp > i img{
-	width: 100%;
+.fl-legal-credit-des-wrp::after {
+    content: "";
+    position: absolute;
+    top: 5%;
+    right: -73px;
+
+    top: 450px;
+	right: -65px;
+    width: 310px;
+    height: 166px;
+    background-image: url(assets/images/legal-credit-des-icon.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    z-index: -1;
 }
 .legal-credit-list li {
     position: relative;
@@ -619,6 +668,7 @@ header.fl-hdr strong{
 	display: inline-block;
 	vertical-align: baseline;
 	margin-top: 12px;
+	letter-spacing: -0.2px;
 }
 .legal-credit-grd-wrp li:last-child .legal-credit-grd span{
 	margin-top: 0;
@@ -654,11 +704,54 @@ header.fl-hdr strong{
 	display: block;
 }
 .legal-ethical-list{
-	padding:20px 82px;
 	background: #135d9d;
 	color: #fff;
 	max-width: 890px;
 	margin: 0 auto 30px;
+	position: relative;
+	border-radius: 5px;
+}
+.legal-ethical-list::after {
+    content: "";
+    position: absolute;
+    background: #e4e4e4;
+    top: 6px;
+    left: 6px;
+    right: -6px;
+    bottom: -6px;
+    z-index: -2;
+    border-radius: 5px;
+}
+.legal-ethical-list::before {
+    content: "";
+    position: absolute;
+    top: -38px;
+	right: -73px;
+    width: 203px;
+    height: 231px;
+    background-image:url(assets/images/legal-ethical-list-ring-icon.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+.legal-ethical-list-innr{
+	position: relative;
+	padding:20px 82px;
+	overflow: hidden;
+}
+.legal-ethical-list-innr::after {
+    content: "";
+    position: absolute;
+    top: -16px;
+	right: -117px;
+    width: 201px;
+    height: 201px;
+    background-image:url(assets/images/legal-ethical-list-innr-icon.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.legal-ethical-list-innr{
+	position: relative;
 }
 .legal-ethical-list li {
     position: relative;
@@ -689,6 +782,10 @@ header.fl-hdr strong{
 .fl-legal-ethical-des p:last-child{
 	margin-bottom: 0;
 }
+
+
+
+
 .fl-angle-block-wrp{
     position: relative;
     padding: 35px 0 35px;
@@ -730,9 +827,15 @@ header.fl-hdr strong{
 .angle-block-des p:last-child{
 	margin-bottom: 0;
 }
+
+
+.fl-bank-darling-sec .fl-angle-block-wrp {
+    padding: 21px 0 27px !important;
+}
 .fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-des-con {
     padding: 25px 103px 30px 23px!important;
 	border-color: #000!important;
+	background: #fff;
 }
 .fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-img{
     left: 38% !important;
@@ -740,15 +843,30 @@ header.fl-hdr strong{
 .fl-bank-darling-sec .fl-angle-block-wrp .angle-block-des{
 	padding-right: 200px !important;
 }
+
+.fl-angle-block-sec .fl-angle-block-wrp {
+    padding: 32px 0 55px !important;
+}
 .fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-des-con {
     padding: 25px 58px 30px 23px!important;
 	border-color: #000!important;
+	background: #fff;
 }
 .fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-img{
     left: 43% !important;
 } 
 .fl-angle-block-sec .fl-angle-block-wrp .angle-block-des {
     padding-right: 196px;
+}
+
+
+
+
+
+
+
+.fl-angle-block-sec .fl-angle-block-wrp .angle-block-head h2{
+	font-family: "PTSerif-BoldItalic";
 }
 .fl-angle-block-sec{
 	padding-top: 60px;
@@ -766,7 +884,22 @@ span.fl-txt-line-y-bg {
     padding-right: 15px;
     padding-bottom: 5px;
     color: #000;
-    letter-spacing: -0.01px;
+    letter-spacing: -0.02px;
+}
+
+
+.fl-video-wrp{
+	max-width: 890px;
+	margin: 0 auto;
+	position: relative;
+	z-index: 5;
+	background: #fff;
+	border: 8px solid #fff;
+	border-bottom: 4px solid #fff;
+	border-radius: 2px;
+	-webkit-box-shadow: 0 5px 14px -8px rgb(180,179,179);
+	-ms-box-shadow: 0 5px 14px -8px rgb(180,179,179);
+	box-shadow: 0 5px 14px -8px rgb(180,179,179);
 }
 
 
@@ -776,7 +909,19 @@ span.fl-txt-line-y-bg {
 
 
 
+
+
+
+
+
+
 @media(max-width: 1379px){
+	.fl-john-ulzheimer-img > i:nth-child(1) {
+	    left: 0;
+	}
+	.fl-john-ulzheimer-img > i:nth-child(2) {
+	    right: 0;
+	}
 
 }
 
@@ -822,7 +967,16 @@ span.fl-txt-line-y-bg {
 	.fl-angle-block-sec .fl-angle-block-wrp .angle-block-des {
 	    padding-right: 0 !important;
 	}	
-
+	.legal-ethical-list::before{
+	    content: none;
+	}
+	.fl-prisoner-two-part-wrp li:nth-child(1) .fl-prisoner-img {
+	    margin-right: 0;
+	}	
+	.fl-john-ulzheimer-img > i:nth-child(1),
+	.fl-john-ulzheimer-img > i:nth-child(2) {
+	    display: none;
+	}
 } 
 
 @media(max-width: 1023px){
@@ -918,10 +1072,14 @@ span.fl-txt-line-y-bg {
 	.fl-secret-powerful-lft-img{
 		width: 100%;
 		margin-bottom: 25px;
+		padding-top: 0;
 	}
 	.fl-secret-powerful-rgt-des{
 		width:100%;
 		padding-left: 0;
+	}
+	.fl-video-wrp iframe {
+		height: 400px!important;
 	}
 }
 
@@ -944,6 +1102,9 @@ span.fl-txt-line-y-bg {
 	.fl-rent-borrow-head h2 br{
 	    display: none;
 	}
+	.fl-legal-credit-head {
+	    padding: 30px 15px 25px;
+	}
 }
 
 @media(max-width: 767px){
@@ -952,10 +1113,6 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-earn-money-head .fl-earn-money-head-innr {
 	    padding: 38px 20px 33px;
-	}
-	.legal-credit-list {
-	    padding: 25px 15px;
-	    border: 2px solid #135d9d;
 	}
 	.legal-credit-grd-wrp li:nth-child(3n+1) {
 	    clear: initial;
@@ -997,11 +1154,21 @@ span.fl-txt-line-y-bg {
 	.fl-earn-money-sec {
 	    padding: 40px 0 50px;
 	}
+	.fl-future-danger-head h2 br, 
+	.fl-major-breakdown-head h2 br,
 	.fl-legal-ethical-head h2 br,
 	.fl-advantage-head h2 br,
 	.fl-secret-powerful-head h2 br,
 	.fl-bank-darling-head h2 br{
 		display: none;
+	}
+	.fl-angle-block-des-con, 
+	.fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-des-con, 
+	.fl-angle-block-sec .fl-angle-block-wrp .fl-angle-block-des-con {
+	    padding: 25px 15px!important;
+	}
+	.fl-video-wrp iframe {
+	    height: 365px!important;
 	}
 }
 
@@ -1015,10 +1182,10 @@ span.fl-txt-line-y-bg {
 	}
 	.legal-credit-list li {
 	    position: relative;
-	    padding-left: 40px;
+	    padding-left: 34px;
 	    margin-bottom: 21px;
 	    z-index: 2;
-	    font-size: 22px;
+	    font-size: 20px;
 	}
 	.fl-legal-credit-des-wrp {
 	    padding: 30px 19px 30px;
@@ -1042,10 +1209,22 @@ span.fl-txt-line-y-bg {
 	.fl-jay-hannon-innr {
 	    padding: 0 20px 40px;
 	}
+	.legal-ethical-list-innr {
+	    padding: 10px 30px;
+	}
 }
  
 @media(max-width: 575px){
-
+	.legal-ethical-list-innr {
+	    padding: 0;
+	}
+	.fl-video-wrp iframe {
+	    height: 300px!important;
+	}
+	.legal-credit-list-innr {
+	    padding: 25px 12px 30px 12px;
+	    border: 2px solid #135d9d;
+	}
 }
 
 @media(max-width: 479px){
@@ -1059,6 +1238,13 @@ span.fl-txt-line-y-bg {
 	}
 	.legal-ethical-list li img {
 	    max-width: 26px;
+	}
+	.fl-video-wrp iframe {
+	    height: 300px!important;
+	}
+	.fl-video-wrp {
+	    margin-left: -15px;
+	    margin-right: -15px;
 	}
 }
 
