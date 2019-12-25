@@ -1,0 +1,86 @@
+Desktop
+-----------------
+1. https://www.screencast.com/t/j2DCQfS2
+	boro window te img ta haray jay. top and bottom ar. 
+	bg-size: center center dile maybe thik thakbe
+
+2. https://www.screencast.com/t/t3TvZHEyJ
+	ai layer ta missing 
+
+3. https://www.screencast.com/t/d5gyXldpI
+	bottom img top ar dike ar aktu crop korle milbe maybe
+
+4. https://www.screencast.com/t/MD6Tu20EGmAr
+	ai gap ta ar aktu besi hobe
+
+5. https://www.screencast.com/t/okH533apcaO
+	span ar display block jehetu ache . so br tag lagbena
+
+6. https://www.screencast.com/t/cvaALBc5IrQ
+	img ta aro left a asbe . width barao
+
+7. https://www.screencast.com/t/WUFaVcC4
+	white bg missing
+
+8. https://www.screencast.com/t/rwOvOJKbUP
+	gap 5px besi hobe
+
+9. https://www.screencast.com/t/pJpRVW7OjAD7
+	ata right side a 5px ber kora thakbe
+
+10. https://www.screencast.com/t/kffkIFpn9K
+	i) ai white bg ta missing 
+	ii) https://www.screencast.com/t/FgQ3g02d
+		then ai box under a sob img gulo png thake jpg korte hobe
+
+11. https://www.screencast.com/t/PGA06dEpLJs
+	font-size mileni
+
+12. https://www.screencast.com/t/Kgv4IHZ4nJii
+	i) ata solid bg css diye manage korar try koro
+	ii) left top and left bottom a radius hobe
+
+13. https://www.screencast.com/t/X74FTHBGI
+	ai gap ta aktu besi mone hosche
+
+14. https://www.screencast.com/t/gcx1C8rxFx
+	gap hobena. akta p ar moddhe dhukay br tag use korte paro
+
+15. https://www.screencast.com/t/NRVWuJZosbTp
+	top and bottom wave ar fix ager motoi
+
+16. https://www.screencast.com/t/fmksCQ9kP5S3
+	top a r aktu gap besi hobe maybe
+
+17. https://www.screencast.com/t/0oGIx9ImXn
+	ai layer ta missing
+
+20. https://www.screencast.com/t/q86hoLuw
+	i) bg white missing
+	ii) then right img ta jpg use korte hobe
+	iii) then heading ar niche dots img tao jpg use korte hobe
+
+21. https://www.screencast.com/t/nKE5drooms2
+	gap besi mone hosche
+
+22. https://www.screencast.com/t/uIbHpsmOPjR
+	https://www.screencast.com/t/N2NkTtlat
+	ai img gulo jpg use korte pari. jehetu white bg ache section tate
+
+23. https://www.screencast.com/t/kbiENyHtbSMX
+
+	bottom shadow ta besi mone hosche.
+	shadow niche halka aktu buja jabe. psd dekhe valo kore milate hobe
+
+24. https://www.screencast.com/t/okS8bTUQl
+	gap besi mone hosche. ai section gulor heading gap kom besi ache. tai parent sec dhore gap ta manage korte paro
+
+25. https://www.screencast.com/t/5AXYTWWV
+	i) top and bottom wave ar fix ager motoi
+	ii) 2 ta layer missing 
+
+26. https://www.screencast.com/t/SpVwRbruTz2
+	ata vdo hobe. pore add kora jabe client ar kache sune
+
+27. https://www.screencast.com/t/vEelGsQd
+	data-src nai and lazy class. aro bes kyjay nai. valo kore check kore dekhio

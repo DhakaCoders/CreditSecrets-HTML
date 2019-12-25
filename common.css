@@ -294,6 +294,9 @@ h5 {
   p br{
     display: none;
   }
+  .fl-every-single-power h5{
+    font-size: 24px;
+  }
 }
 
 @media(max-width: 767px){    
@@ -321,6 +324,9 @@ h5 {
   }
   h5 {
       font-size: 22px    
+  }
+  .fl-every-single-power h5{
+    font-size: 22px;
   }
   p {
       margin-bottom: 20px;

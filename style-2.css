@@ -2,7 +2,7 @@
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
 	background-position: center !important;
-	padding: 30px 0;
+	padding: 40px 0 20px;
 	position: relative;
 }
 .fl-loophole-head h2{
@@ -19,19 +19,19 @@
     top: -26px;
     z-index: 1;
     height: 27px;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+    background-size: center center !important;
+    background-repeat: repeat-x !important;
     background-position: center top !important;
 }
 .btm-wave-img{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -15px;
+    bottom: -38px;
     z-index: 1;
-    height: 25px;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+    height: 40px;
+    background-size: center center !important;
+    background-repeat: repeat-x !important;
     background-position: center bottom !important;
 }
 span.fl-txt-line-bg {
@@ -73,6 +73,9 @@ span.fl-txt-line-bg {
 	display:block;
 	color: #135d9d;
 }
+.fl-needs-trick-sec-wrp .fl-anyone-use-head h2 {
+    padding-bottom: 15px;
+}
 
 .fl-needs-trick-sec-wrp .fl-anyone-use-head h2 span{
     display:inline-block;
@@ -88,13 +91,13 @@ span.fl-txt-line-bg {
 }
 .health-risks-grd-wrp li {
     width: 100%;
-    max-width: 368px;
+    max-width: 375px;
     display: inline-block;
     vertical-align: top;
     margin-bottom: 50px;
 }
 .health-risks-img {
-    width: 365px;
+    width: 375px;
     height: 305px;
     margin: 0 auto;
     background-repeat: no-repeat!important;
@@ -172,7 +175,7 @@ span.fl-exposed-rgt-img {
 }
 .fl-anyone-two-part-img{
     position: absolute;
-    right: 0;
+    right: -5px;
     top: 0;
     bottom: 0;
     width: 58%;
@@ -187,8 +190,9 @@ span.fl-exposed-rgt-img {
     bottom: 40px;
     z-index: -1;
     padding-right: 250px;
-    padding-left: 20px;
+    padding-left: 25px;
     padding-top: 25px;
+    background: #fff;
 }
 .fl-anyone-two-part-head{
     text-align: center;
@@ -219,7 +223,6 @@ span.fl-exposed-rgt-img {
     -webkit-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
     -moz-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
     box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1)
-    background:#fff;
 }
 .fl-every-single-head {
     text-align: center;
@@ -279,20 +282,41 @@ span.fl-exposed-rgt-img {
 	max-width:930px;
 	width: 100%;
 	margin: 0 auto;
-	background-repeat: no-repeat !important;
-	background-position: center center !important;
-	background-size: cover !important; 
+	border-radius: 5px;
 	text-align: center;
 	padding: 20px 40px 5px;
 	position: relative;
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+.fl-every-single-power:after{
+    content: "";
+    position: absolute;
+    right: -6px;
+    top: 6px;
+    bottom:0;
+    background: #e8e8e8;
+    width: 6px;
+    height: 100%;
+    border-radius: 0px 8px 8px 0px; 
+}
+.fl-every-single-power:before{
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 6px;
+    right: 0;
+    background: #e8e8e8;
+    width: 100%;
+    height: 6px;
+    border-radius: 0 0 8px 8px ; 
+}
 .fl-every-single-power h5{
 	margin: 0;
 	color: #fff;
 	font-family: "OpenSans-SemiBoldItalic";
 	margin-bottom: 30px;
+    font-size: 25px;
 }
 span.fl-every-single-power-icon{
 	position: absolute;
@@ -345,7 +369,6 @@ span.fl-every-single-power-icon{
     padding-left: 10px;
     position: relative;
     z-index: 2;
-    padding-bottom: 10px;
 }
 .fl-needs-trick-sec-wrp {
     padding-top: 45px;
@@ -370,7 +393,7 @@ span.fl-every-single-power-icon{
 	background-repeat: no-repeat !important;
 	background-position: center center !important;
 	background-size: cover !important;
-	padding-top: 30px;
+	padding-top: 40px;
 	padding-bottom: 20px;
 	position: relative;
 }
@@ -389,9 +412,11 @@ span.fl-every-single-power-icon{
 	padding-top: 70px;
 	padding-bottom: 50px;
 }
-.fl-happened-overflow{
+.fl-happened-overflow {
     overflow: hidden;
     position: relative;
+    background: #fff;
+    z-index: -1;
 }
 .fl-happened-bdr{
 	border: 4px solid#000;
@@ -432,9 +457,9 @@ span.fl-every-single-power-icon{
     overflow: hidden;
     margin-left: -15px;
     margin-right: -15px;
-    -webkit-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
-    -moz-box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
-    box-shadow: 0 4px 9px 0 rgba(210, 210, 210, 1);
+    -webkit-box-shadow: 0 4px 10px 0 rgba(210, 210, 210, 1);
+    -moz-box-shadow: 0 4px 10px 0 rgba(210, 210, 210, 1);
+    box-shadow: 0 4px 10px 0 rgba(210, 210, 210, 1);
 }
 .fl-we-believe-head{
 	border-radius: 5px 5px 0 0;
@@ -449,6 +474,7 @@ span.fl-every-single-power-icon{
 }
 .fl-we-believe-head .btm-wave-img{
 	height: 16px;
+    bottom: -11px;
 }
 .fl-we-believe-wrp{
 	position: relative;
@@ -474,11 +500,15 @@ span.fl-every-single-power-icon{
 	float: right;
 	padding-right: 40px;
 	padding-top: 40px;
+    position: relative;
 }
 
 .fl-spark-sec-wrp {
     padding-top: 40px;
     padding-bottom: 30px;
+}
+.fl-spark-sec-wrp .fl-anyone-use-head h2{
+    padding-bottom: 15px;
 }
 .fl-spark-sec-wrp .fl-anyone-use-head{
 	padding-bottom: 35px;
@@ -588,6 +618,7 @@ span.fl-every-single-power-icon{
     .fl-anyone-two-part-wrp {
         height: auto;
         border: 5px solid #000;
+        background: #fff;
     }
     .fl-anyone-two-part-img {
         position: static;
@@ -602,6 +633,7 @@ span.fl-every-single-power-icon{
         padding-right: 20px;
         padding-left: 20px;
         padding-top: 25px;
+        background:transparent;
     }
     .fl-every-single-tp-img {
         position: static;
@@ -680,8 +712,9 @@ span.fl-every-single-power-icon{
         max-width: 100%;
         width: 100%;
         float: none;
-        padding-right: 0;
+        padding-right: 10px;
         padding-top: 40px;
+        padding-left: 10px;
     }
     .fl-spark-img{
         text-align: center;
@@ -718,6 +751,9 @@ span.fl-every-single-power-icon{
     .fl-anything-about-head h2 br,
     .health-risks-dsc h5 br{
         display: none;
+    }
+    .fl-spark-sec-wrp .pull-right{
+        float: none !important;
     }
 
     
