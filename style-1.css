@@ -902,9 +902,9 @@ span.fl-txt-line-y-bg {
 	box-shadow: 0 5px 14px -8px rgb(180,179,179);
 }
 
-
-
-
+.fl-rent-borrow-img .fl-video-wrp{
+	margin-bottom: 32px;
+}
 
 
 
@@ -1169,6 +1169,9 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-video-wrp iframe {
 	    height: 365px!important;
+	}
+	.fl-angle-block-wrp {
+	    padding: 20px 0 35px;
 	}
 }
 
