@@ -943,7 +943,7 @@ span.fl-txt-line-y-bg {
 	}
 	.fl-angle-block-img img{
 		display: inline-block;
-		width: 100%;
+		padding: 20px 15px 0;
 	}
 	.fl-angle-block-des-con,
 	.fl-bank-darling-sec .fl-angle-block-wrp .fl-angle-block-des-con,
